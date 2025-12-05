@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.DANCE one word domain
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | abactinal.dance  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.dance      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.dance  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.dance  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.dance    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.dance     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.dance   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.DANCE one word domain
 | abbatial.dance   | available | 50       | 1%     | 8      |           |         |         |
 | abc.dance        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.dance  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.dance  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.dance  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.dance | available | 56       | 1%     | 10     |           |         |         |
 | abducens.dance   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.dance   | available | 68       | 1%     | 8      |           |         |         |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.DANCE one word domain
 | aberdonian.dance | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.dance   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.dance    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.dance  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.dance  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.dance    | available | 106      | 5%     | 7      |           |         |         |
 | abient.dance     | available | 54       | 1%     | 6      |           |         |         |
 | ability.dance    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.DANCE one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
