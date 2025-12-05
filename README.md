@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DANCE one-word domains still available to buy.
 
-This dataset contains 4,534 .DANCE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,533 .DANCE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DANCE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dance-oneword-domains&utm_content=description.top) (4,536) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
