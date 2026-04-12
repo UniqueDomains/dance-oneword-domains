@@ -80,10 +80,10 @@ print(df.head())
 | wallet.dance   | resell    | —         | —             | 74             | 55     | 6      | Dynadot Inc                                               |
 | gold.dance     | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap                                                 |
 | food.dance     | available | $17.99    | $35.99        | 94             | 44     | 4      | name.com                                                  |
-| zero.dance     | resell    | —         | —             | 112            | 54     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| business.dance | resell    | —         | —             | 100            | 54     | 8      | GoDaddy.com, LLC                                          |
 | simple.dance   | premium   | $17.99    | $35.99        | 128            | 47     | 6      | name.com                                                  |
 | smile.dance    | available | $17.99    | —             | 92             | 44     | 5      | name.com                                                  |
-| business.dance | resell    | —         | —             | 100            | 54     | 8      | GoDaddy.com, LLC                                          |
+| link.dance     | resell    | —         | —             | 68             | 54     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
