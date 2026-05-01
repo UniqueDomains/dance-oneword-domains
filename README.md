@@ -1,10 +1,10 @@
-# Available .DANCE One-Word Domains (11,455)
+# Available .DANCE One-Word Domains (12,064)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C455%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C064%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dance one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,455 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,064 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,455 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,064 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/dance`  
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | Ryan.dance      | available | $36.98    | —             | 60             | 44     | 4      | namecheap    |
 | events.dance    | premium   | $123.75   | —             | 68             | 37     | 6      | name.com     |
 | matcha.dance    | available | $17.99    | —             | 86             | 39     | 6      | name.com     |
-| Cats.dance      | premium   | $46.20    | $46.20        | 59             | 33     | 4      | namecheap    |
-| trends.dance    | available | $17.99    | —             | 60             | 32     | 6      | name.com     |
 | photos.dance    | premium   | $123.75   | —             | 54             | 28     | 6      | name.com     |
 | maps.dance      | available | $17.99    | —             | 56             | 31     | 4      | name.com     |
-| vacations.dance | premium   | $78.54    | $78.54        | 56             | 19     | 9      | namesilo     |
-| heroes.dance    | available | $17.99    | —             | 68             | 29     | 6      | name.com     |
-| charts.dance    | premium   | $35.40    | $35.40        | 64             | 18     | 6      | namesilo     |
+| blogs.dance     | premium   | $118.80   | $118.80       | 52             | 21     | 5      | namesilo     |
 | quotes.dance    | available | $17.99    | —             | 58             | 29     | 6      | name.com     |
-| templates.dance | premium   | $1,000    | —             | 54             | 17     | 9      | name.com     |
+| charts.dance    | premium   | $35.40    | $35.40        | 64             | 18     | 6      | namesilo     |
 | brands.dance    | available | $17.99    | —             | 62             | 28     | 6      | name.com     |
-| parties.dance   | premium   | $123.75   | —             | 58             | 13     | 7      | name.com     |
+| weddings.dance  | premium   | $118.80   | $118.80       | 64             | 18     | 8      | namesilo     |
 | pages.dance     | available | $17.99    | —             | 52             | 28     | 5      | name.com     |
-| drums.dance     | premium   | $82.50    | —             | 54             | 11     | 5      | name.com     |
+| templates.dance | premium   | $1,000    | —             | 54             | 17     | 9      | name.com     |
 | Elias.dance     | available | $36.98    | —             | 72             | 27     | 5      | namecheap    |
+| parties.dance   | premium   | $123.75   | —             | 58             | 13     | 7      | name.com     |
+| bees.dance      | available | $17.99    | —             | 54             | 27     | 4      | name.com     |
+| drums.dance     | premium   | $82.50    | —             | 54             | 11     | 5      | name.com     |
+| Keith.dance     | available | $36.98    | —             | 66             | 25     | 5      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,455 live domains                              |
+| 1,000-row public sample | 12,064 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
