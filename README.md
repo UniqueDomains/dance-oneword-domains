@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dance one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,062 domains · **Median ask:** $22.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/dance`  
 **Best for:** founders, investors, studios
 
@@ -75,11 +75,11 @@ print(df.head())
 | blogs.dance     | premium   | $118.80   | $118.80       | 52             | 21     | 5      | namesilo     |
 | quotes.dance    | available | $17.99    | —             | 58             | 29     | 6      | name.com     |
 | charts.dance    | premium   | $35.40    | $35.40        | 64             | 18     | 6      | namesilo     |
-| brands.dance    | available | $17.99    | —             | 62             | 28     | 6      | name.com     |
+| Elias.dance     | available | $36.98    | —             | 72             | 28     | 5      | namecheap    |
 | weddings.dance  | premium   | $118.80   | $118.80       | 64             | 18     | 8      | namesilo     |
-| pages.dance     | available | $17.99    | —             | 52             | 28     | 5      | name.com     |
+| brands.dance    | available | $17.99    | —             | 62             | 28     | 6      | name.com     |
 | templates.dance | premium   | $1,000    | —             | 54             | 17     | 9      | name.com     |
-| Elias.dance     | available | $36.98    | —             | 72             | 27     | 5      | namecheap    |
+| pages.dance     | available | $17.99    | —             | 52             | 28     | 5      | name.com     |
 | parties.dance   | premium   | $123.75   | —             | 58             | 13     | 7      | name.com     |
 | bees.dance      | available | $17.99    | —             | 54             | 27     | 4      | name.com     |
 | drums.dance     | premium   | $82.50    | —             | 54             | 11     | 5      | name.com     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
