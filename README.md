@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .dance one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,061 domains · **Median ask:** $22.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,061 domains · **Median ask:** $22.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/dance`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/dance`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DANCE one-word domain
 
 ### Files
 
-- `dance.csv` — public CSV extract (1,000 rows)
-- `dance.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `dance.csv`, public CSV extract (1,000 rows)
+- `dance.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| cars.dance      | available | $17.99    | —             | 66             | 47     | 4      | name.com     |
-| Americas.dance  | resell    | —         | —             | 64             | 14     | 8      | Sav.com, LLC |
-| jobs.dance      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com     |
-| Ryan.dance      | available | $36.98    | —             | 60             | 44     | 4      | namecheap    |
-| events.dance    | premium   | $123.75   | —             | 68             | 37     | 6      | name.com     |
-| matcha.dance    | available | $17.99    | —             | 86             | 39     | 6      | name.com     |
-| photos.dance    | premium   | $123.75   | —             | 54             | 28     | 6      | name.com     |
-| maps.dance      | available | $17.99    | —             | 56             | 31     | 4      | name.com     |
-| blogs.dance     | premium   | $118.80   | $118.80       | 52             | 21     | 5      | namesilo     |
-| quotes.dance    | available | $17.99    | —             | 58             | 29     | 6      | name.com     |
-| charts.dance    | premium   | $35.40    | $35.40        | 64             | 18     | 6      | namesilo     |
-| Elias.dance     | available | $36.98    | —             | 72             | 28     | 5      | namecheap    |
-| weddings.dance  | premium   | $118.80   | $118.80       | 64             | 18     | 8      | namesilo     |
-| brands.dance    | available | $17.99    | —             | 62             | 28     | 6      | name.com     |
-| templates.dance | premium   | $1,000    | —             | 54             | 17     | 9      | name.com     |
-| pages.dance     | available | $17.99    | —             | 52             | 28     | 5      | name.com     |
-| parties.dance   | premium   | $123.75   | —             | 58             | 13     | 7      | name.com     |
-| bees.dance      | available | $17.99    | —             | 54             | 27     | 4      | name.com     |
-| drums.dance     | premium   | $82.50    | —             | 54             | 11     | 5      | name.com     |
-| Keith.dance     | available | $36.98    | —             | 66             | 25     | 5      | namecheap    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| act.dance    | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| that.dance   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| bar.dance    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| ale.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| drone.dance  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| DIY.dance    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cod.dance    | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| pocket.dance | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| our.dance    | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo         |
+| coy.dance    | available | $17.99    | $35.99        | medium         | low    | 3      | name.com         |
+| pop.dance    | premium   | $250      | $250          | high           | medium | 3      | name.com         |
+| die.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| she.dance    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| dvd.dance    | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| yes.dance    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| Fla.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| fame.dance   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| flu.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| move.dance   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| gun.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word domains on the .dance extension. The names range from clean dictionary terms such as correct.dance and return.dance to more expressive options like fuzzy.dance and peaceful.dance, plus shorter words like hang.dance and tug.dance. For founders, the key question is whether the word is memorable, easy to say, and specific enough to feel ownable in a niche extension. For investors, the main test is pricing discipline: the median ask is 22.49, so the strongest candidates are usually the words with the clearest commercial use, broad recognition, or immediate relevance to dance, movement, events, studios, or media.
+This list covers 12,061 one-word .dance domain names, each a single unbroken string under the .dance extension. The median asking price sits near $23, keeping most names within reach for early-stage brand building or small-scale portfolio additions. Names range from playful compounds like jollyalong.dance and getmoving.dance to niche, descriptive terms such as aloevera.dance and counselling.dance. When comparing options here, weigh length, spellability, and topical fit against asking price and renewal cost before committing to a name.
 
-- All domains in this selection use the .dance extension
-- The set contains 12,064 one-word .dance domains
-- Median ask across this selection is 22.49
-- Short words and clear dictionary terms tend to stand out
+- 12,061 .dance domains, single-string names ready to own
+- Median ask near $23 — low-cost entry pricing
+- Mix of brandable phrases and niche dance terms
+- Updated daily to reflect current availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
