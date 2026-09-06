@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dance one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,049 domains · **Median ask:** $16.55 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/dance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| correct.dance | available | $17.99    | $35.99        | high           | low    | 7      | name.com         |
-| damn.dance    | available | $17.99    | $35.99        | high           | low    | 4      | name.com         |
-| great.dance   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
-| yes.dance     | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| bang.dance    | available | $17.99    | —             | high           | low    | 4      | name.com         |
-| act.dance     | available | $17.99    | —             | high           | low    | 3      | name.com         |
-| that.dance    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| bar.dance     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| ale.dance     | available | $17.99    | —             | medium         | low    | 3      | name.com         |
-| drone.dance   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| DIY.dance     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| azo.dance     | available | $10.48    | $36.98        | low            | low    | 3      | namecheap        |
-| pocket.dance  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| our.dance     | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo         |
-| cod.dance     | available | $17.99    | —             | high           | low    | 3      | name.com         |
-| pop.dance     | premium   | $250      | $250          | high           | medium | 3      | name.com         |
-| coy.dance     | available | $17.99    | $35.99        | medium         | low    | 3      | name.com         |
-| she.dance     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| die.dance     | available | $17.99    | —             | medium         | low    | 3      | name.com         |
-| dvd.dance     | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| act.dance    | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| that.dance   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| bar.dance    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| ale.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| drone.dance  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| DIY.dance    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| azo.dance    | available | $10.48    | $36.98        | low            | low    | 3      | namecheap        |
+| pocket.dance | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| our.dance    | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo         |
+| cod.dance    | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| pop.dance    | premium   | $250      | $250          | high           | medium | 3      | name.com         |
+| coy.dance    | available | $17.99    | $35.99        | medium         | low    | 3      | name.com         |
+| she.dance    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| die.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| yes.dance    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| dvd.dance    | available | $17.99    | —             | high           | low    | 3      | name.com         |
+| fame.dance   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| Fla.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
+| move.dance   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| flu.dance    | available | $17.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DANCE One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
