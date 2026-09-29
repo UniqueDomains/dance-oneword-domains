@@ -3,6 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 93c74dd3-a4b0-4cc4-b822-56a9f8818859,convergent.dance,available,10.48,36.98,high,low,10,namecheap,,,12/08/2026 23:50
 0002bf39-7cbc-44b6-b5dc-e9a058b35cb5,trent.dance,available,16.99,27.49,high,low,5,namesilo,,,25/09/2026 10:26
 ab96fad1-3689-4a4a-b341-cb94314f33ba,bawling.dance,available,10.48,36.98,medium,low,7,namecheap,,,13/09/2026 07:42
+b7fd6a66-dbec-4dd6-bdc7-ea14546891fa,merrick.dance,available,16.99,27.49,medium,low,7,namesilo,,,28/09/2026 16:40
 f4f0485a-5129-4b72-b470-bd74f5472727,rooibos.dance,available,16.99,27.49,medium,low,7,namesilo,,,20/09/2026 14:38
 3e5a4698-7662-44a8-898f-d4d5ffe0f96e,ship.dance,resell,,,high,low,4,"GoDaddy.com, LLC",12/01/2021 13:12,12/01/2027 13:12,26/09/2026 08:59
 9599d26c-633c-4708-86fc-f95bcd743599,asparagus.dance,available,16.99,27.49,high,low,9,namesilo,,,20/09/2026 14:40
@@ -24,15 +25,18 @@ aa9abe82-5345-4255-9cef-faee553aff7d,anhydride.dance,available,10.48,36.98,mediu
 c1f64559-4c03-432d-b325-766fe0376675,bedside.dance,available,16.99,27.49,high,low,7,namesilo,,,22/09/2026 23:34
 e4a3648e-801f-4974-b490-ac95e262cd79,musically.dance,available,10.48,36.98,high,low,9,namecheap,,,15/09/2026 15:43
 ac6f67f0-cc99-442c-9f69-a1e56d680f54,precursors.dance,available,16.99,27.49,medium,low,10,namesilo,,,21/09/2026 00:35
+ca78be2b-8dd6-45ac-b7e7-a6748de0aea2,uprising.dance,available,16.99,27.49,medium,low,8,namesilo,,,29/09/2026 01:22
 4929be2f-92a6-4590-8bac-8704f20e4062,adorably.dance,available,10.48,36.98,medium,low,8,namecheap,,,13/09/2026 17:21
+bc439ce6-2f84-4977-ac41-32e7a7e89530,npr.dance,available,16.99,27.49,high,low,3,namesilo,,,28/09/2026 07:36
 80c04198-e73e-437f-a9a2-2c252829a089,noxious.dance,available,10.48,36.98,medium,low,7,namecheap,,,03/09/2026 22:21
 2947afc3-fd0d-4d1b-bc58-9ab42dcc873a,connie.dance,available,16.99,27.49,high,low,6,namesilo,,,25/09/2026 12:17
 ca7223bc-ddee-4f08-b388-38db8c5bbc74,grandson.dance,available,17.99,,high,low,8,name.com,,,
 16393a50-1e9a-4e98-aba9-1d3d294b5ea5,bladder.dance,available,16.99,27.49,high,low,7,namesilo,,,24/09/2026 03:26
 1d495839-c9d0-4e58-a6bf-9eb7e9206413,cloisonne.dance,available,10.48,36.98,medium,low,9,namecheap,,,12/08/2026 01:39
 c382342c-6f94-451d-875f-e6726814d080,catarrhine.dance,available,10.48,36.98,medium,low,10,namecheap,,,11/08/2026 21:11
+19ed59d9-292c-4341-8d8b-9d164b88a98b,spies.dance,available,21.2,21.2,medium,low,5,cloudflare,,,28/09/2026 12:49
 647e8f23-bd1c-4291-9702-fa6603e79946,decisively.dance,available,10.48,36.98,medium,low,10,namecheap,,,14/09/2026 11:10
-e897e7d4-185e-44d4-a86a-92a8482f6182,cheerfully.dance,available,17.99,,high,low,10,name.com,,,
+e897e7d4-185e-44d4-a86a-92a8482f6182,cheerfully.dance,available,9.78,22.14,high,low,10,porkbun,,,28/09/2026 13:48
 9c64f15a-a419-417c-bda0-9189d68bdce5,caledonia.dance,available,16.99,27.49,medium,low,9,namesilo,,,27/09/2026 03:27
 68d500f1-a936-4a30-991f-d6bc40c1c917,woozy.dance,available,10.48,36.98,medium,low,5,namecheap,,,14/08/2026 14:06
 dc01ec9c-e69f-4717-b4d4-5e75313563ed,enormously.dance,available,10.48,36.98,medium,low,10,namecheap,,,14/09/2026 15:47
@@ -45,7 +49,7 @@ a143c265-3311-4aaf-9fa7-2a718c648158,tumescent.dance,available,10.48,36.98,mediu
 bf7b0201-4242-4349-a79d-a9aa8596ef14,helical.dance,available,10.48,36.98,medium,low,7,namecheap,,,12/08/2026 16:11
 f1046b75-51fb-4987-ac54-3d5d40a6a05e,arouse.dance,available,10.48,36.98,high,low,6,namecheap,,,07/08/2026 23:59
 d3a28103-4ac0-4b58-aa10-f0bc8281d5e8,norwegian.dance,available,10.48,36.98,high,low,9,namecheap,,,25/09/2026 23:14
-eea7e71e-47db-415a-89db-b722c02413dc,bolster.dance,available,17.99,,high,low,7,name.com,,,
+eea7e71e-47db-415a-89db-b722c02413dc,bolster.dance,available,9.52,21.94,medium,low,7,spaceship,,,29/09/2026 03:17
 476799bf-e399-4d68-a01b-585cf3a2ee01,fruiting.dance,available,10.48,36.98,medium,low,8,namecheap,,,18/08/2026 17:04
 49e919b7-0113-45d8-aad6-5a599f54b37e,deepest.dance,available,17.99,,medium,low,7,name.com,,,
 306f6ebf-62c5-43e5-8c51-d8e0f8729c0c,strangers.dance,available,10.48,36.98,medium,low,9,namecheap,,,
@@ -62,6 +66,7 @@ eb4d52ed-62b8-4c06-a852-5cae372408f6,annoyance.dance,available,10.48,36.98,high,
 e5adb22c-87cd-44d5-a27f-84c3d0485e36,outing.dance,available,17.99,,high,low,6,name.com,,,
 8d2e3237-1e49-4d84-a733-1c9034cd9cf0,dampness.dance,available,17.99,35.99,medium,low,8,name.com,,,13/08/2026 16:45
 09250d9e-a68d-4a22-a224-2abce35fd742,paralytic.dance,available,10.48,36.98,medium,low,9,namecheap,,,08/09/2026 00:57
+9983f361-31d6-48c7-af94-4f813d3e0155,ayres.dance,available,10.48,36.98,medium,low,5,namecheap,,,28/09/2026 12:24
 87e46202-f0da-48b2-8df1-f8f87a1a8fd4,seaborne.dance,available,10.48,36.98,medium,low,8,namecheap,,,10/09/2026 00:34
 400a0bb9-fd9d-4a5b-b7d5-956cc57405e2,bonk.dance,available,16.99,27.49,medium,low,4,namesilo,,,22/09/2026 10:31
 c9b771d0-6aad-4e7c-9342-884b01057548,manufacturing.dance,available,16.99,27.49,high,low,13,namesilo,,,28/09/2026 04:36
@@ -82,9 +87,11 @@ cde3e5bb-d888-46f5-a60f-01dbded69d43,thumbs.dance,available,16.99,27.49,medium,l
 ac1e19fb-007a-4d25-bbb4-4a068873bb55,harley.dance,available,16.99,27.49,high,low,6,namesilo,,,25/09/2026 12:17
 7b4198c6-f54c-4e92-93bf-6696125b986b,christian.dance,premium,242,242,high,medium,9,namesilo,,,23/09/2026 14:35
 c4895a88-f88d-4ea5-9e5a-18a613868eb4,dovish.dance,available,10.48,36.98,medium,low,6,namecheap,,,14/08/2026 17:07
+0e7d7cc9-ba2b-4e41-a23e-c77b7e0c43e9,jurisdiction.dance,available,9.78,22.14,high,low,12,porkbun,,,28/09/2026 22:34
 a7a67c1e-e469-401b-9115-d1408752545d,wires.dance,available,16,,medium,low,5,unstoppable,,,28/09/2026 04:36
 a6f95fb0-18ef-4421-8d9d-e3bf74f5881e,protecting.dance,available,16.99,27.49,high,low,10,namesilo,,,27/09/2026 02:52
 725fcce6-a45f-4523-85cb-2d3c05cd93bb,montrose.dance,available,9.52,21.94,medium,low,8,spaceship,,,28/09/2026 04:14
+dd6ae918-cd48-4d7f-9cb2-69cfd2436c67,cheaper.dance,available,16.99,27.49,low,low,7,namesilo,,,28/09/2026 08:27
 e2e7ca65-d5fe-4917-a067-560a29e53eb2,defiantly.dance,available,10.48,36.98,medium,low,9,namecheap,,,14/09/2026 08:33
 7581e06a-7d7f-4124-8fa9-6d30a7cb9afd,uncordial.dance,available,10.48,36.98,medium,low,9,namecheap,,,12/09/2026 06:13
 39785025-4043-4fed-8937-ff63d3c23e05,asimina.dance,available,16.99,27.49,medium,low,7,namesilo,,,20/09/2026 14:10
@@ -93,6 +100,8 @@ c098bae5-1a10-4a9b-ac2b-701e76e82a07,freudian.dance,available,10.48,36.98,medium
 cae89b24-1597-47f0-8fcf-96a1ae15c335,webb.dance,available,16.99,27.49,high,low,4,namesilo,,,22/09/2026 21:50
 04f971ec-7a1b-4adb-aaad-b8b052f46404,scam.dance,available,10.48,36.98,high,low,4,namecheap,,,14/09/2026 08:03
 5c30da18-3eed-4f87-98f7-15cbd3cb68b5,sainted.dance,available,10.48,36.98,high,low,7,namecheap,,,
+22f65ff1-b17b-4a76-b25c-8233758a2f85,donated.dance,available,9.52,21.94,medium,low,7,spaceship,,,29/09/2026 00:11
+675fdec1-e772-4963-b6a7-c9d90882b1b2,pitcher.dance,available,9.52,21.94,medium,low,7,spaceship,,,28/09/2026 09:43
 074bc5d2-78c5-41aa-a619-319171ec937d,toasted.dance,available,10.48,36.98,high,low,7,namecheap,,,11/09/2026 16:35
 ba1bdc85-9993-43e1-8c97-6332d0f42848,rigel.dance,available,16.99,27.49,medium,low,5,namesilo,,,23/09/2026 10:56
 611417f7-8a55-4cec-8c21-41518af37808,threescore.dance,available,10.48,36.98,medium,low,10,namecheap,,,
@@ -106,6 +115,8 @@ e92fcfd7-2f28-43f2-89d3-894a30ec1eba,solve.dance,available,17.99,,high,low,5,nam
 f03ec8fa-cdb2-4df4-9c5b-e9f865b1b7c4,exacting.dance,available,10.48,36.98,medium,low,8,namecheap,,,17/08/2026 15:32
 4d516eb5-cf1c-49f8-b25a-74cd6692f443,munich.dance,premium,123.75,,high,low,6,name.com,,,
 dd668851-e1b0-44f4-b5d3-4e1e7568d299,merry.dance,available,10.48,36.98,high,low,5,namecheap,,,11/08/2026 04:28
+92c7cdbf-3696-499a-b5c4-251a9422eee8,sacrifices.dance,available,21.2,21.2,low,low,10,cloudflare,,,28/09/2026 17:47
+66594c38-38f4-41a3-b297-e908f8946511,wrath.dance,available,9.52,21.94,medium,low,5,spaceship,,,28/09/2026 20:48
 6955d384-9d98-46c0-9993-296da36d4fe9,yersin.dance,available,16.99,27.49,medium,low,6,namesilo,,,18/09/2026 05:59
 77c9465a-8fb5-4880-bac6-8009bf16d244,diplomacy.dance,available,17.99,,high,low,9,name.com,,,
 a986dd3b-e78c-4449-a0ec-0f291739c6a6,qat.dance,available,16.99,27.49,medium,low,3,namesilo,,,17/09/2026 15:24
@@ -115,17 +126,20 @@ a1051b66-0130-426d-8ccf-d872c282896e,causally.dance,available,10.48,36.98,medium
 9afc932d-0072-4b7d-9cd4-372b5843c619,steiner.dance,available,16.99,27.49,high,low,7,namesilo,,,25/09/2026 10:28
 68657cc4-492e-42e2-aeef-a2f4996feed0,apidae.dance,available,16.99,27.49,medium,low,6,namesilo,,,19/09/2026 17:24
 b28cf1b5-e9e2-41ab-8aba-48c210db9f1e,withering.dance,available,10.48,36.98,medium,low,9,namecheap,,,
+dbc703a5-bcdb-4eca-90e3-be5ced8fe123,edit.dance,available,16,,high,low,4,unstoppable,,,29/09/2026 02:42
 574ac17b-1d40-414e-9e33-d6d1995ec3df,eccentric.dance,available,10.48,36.98,high,low,9,namecheap,,,10/08/2026 09:50
 accac57e-2755-472b-8ad4-1fe7818a9ab8,blurry.dance,available,16.99,27.49,medium,low,6,namesilo,,,22/09/2026 23:23
 ed45197c-9cc9-4c4c-8e4c-af61b36400a7,banshie.dance,available,16.99,27.49,medium,low,7,namesilo,,,22/09/2026 03:10
 2792ee00-500a-473e-8b89-b6891a0676f0,stinky.dance,available,10.48,36.98,high,low,6,namecheap,,,13/08/2026 05:18
+f1a0707c-5370-4f29-90c3-222b05996bbe,screwed.dance,available,9.52,21.94,medium,low,7,spaceship,,,28/09/2026 15:59
 920d38fc-183c-4b4f-a385-fe0285e08366,peripheral.dance,available,10.48,36.98,high,low,10,namecheap,,,08/09/2026 17:14
 d3bdaa66-64a5-4cfe-a25b-18cde361c372,sportsperson.dance,available,16.99,27.49,high,low,12,namesilo,,,16/09/2026 08:58
 d8a4c2b0-05fb-4070-b145-97661ab7975d,asymptotic.dance,available,10.48,36.98,medium,low,10,namecheap,,,07/08/2026 10:30
 67a34a08-3af1-4d44-8833-b4d88883b62a,andorran.dance,available,10.48,36.98,medium,low,8,namecheap,,,
 e7c385c7-dfaf-4e24-ab94-e6114fb3e0df,speculate.dance,available,17.99,,high,low,9,name.com,,,
+7f472abd-e3ff-4945-bea1-dd516ff6a583,stretching.dance,available,16.99,27.49,medium,low,10,namesilo,,,29/09/2026 02:14
 3031beba-a5b8-4612-8d45-fb1d3cbbb541,supra.dance,available,10.48,36.98,high,low,5,namecheap,,,
-9bde88c7-0720-4e02-aaad-49e7eeaedd2b,knot.dance,available,17.99,,high,low,4,name.com,,,
+9bde88c7-0720-4e02-aaad-49e7eeaedd2b,knot.dance,available,10.48,36.98,high,low,4,namecheap,,,28/09/2026 19:37
 43ccd5c6-8d24-46f8-a53b-a660911822ce,camus.dance,available,16.99,27.49,high,low,5,namesilo,,,18/09/2026 02:38
 f9844858-d1c5-4b9b-a38b-312d8660828d,biggish.dance,available,10.48,36.98,medium,low,7,namecheap,,,09/08/2026 20:33
 236113df-b8a4-4ea2-8e6e-85f6b47267bc,verdant.dance,available,10.48,36.98,high,low,7,namecheap,,,13/09/2026 02:22
@@ -137,9 +151,13 @@ effd89d5-3ee4-4501-a297-f0fe977d2c36,mayor.dance,available,16.99,27.49,high,low,
 2c54553e-91fe-4da5-a778-1d9889fa28c4,declare.dance,available,9.52,21.94,high,low,7,spaceship,,,27/09/2026 16:32
 c7f08a7c-c6ac-40f7-9110-cee2842896cb,braun.dance,available,16.99,27.49,high,low,5,namesilo,,,25/09/2026 02:19
 7792a86e-6f97-4588-93eb-d205b110b8a2,chalkboard.dance,available,16.99,27.49,high,low,10,namesilo,,,24/09/2026 02:10
+5e31e050-4cb2-40af-80e1-79fb2300414a,comet.dance,available,16.99,27.49,high,low,5,namesilo,,,29/09/2026 00:28
 e5195255-482c-4e8d-83fe-062868e99348,flaming.dance,available,10.48,36.98,high,low,7,namecheap,,,18/08/2026 06:30
+9b0a0a60-cda8-4a92-8e33-5eb6e91db95e,solving.dance,available,9.52,21.94,high,low,7,spaceship,,,29/09/2026 02:13
+703a690f-9011-4284-b46e-64f5c3168773,cuthbert.dance,available,16,,medium,low,8,unstoppable,,,29/09/2026 03:58
 0b7e95dc-7066-4749-91a6-50cbd96ce728,noon.dance,available,17.99,,high,low,4,name.com,,,
 15038811-51d7-4872-ab33-4d7031209a28,moves.dance,premium,128.7,128.7,high,low,5,namecheap,,,25/09/2026 21:00
+924d3efc-e2f6-4f3b-aad5-ce36cb7586d8,resurrection.dance,available,16.99,27.49,high,low,12,namesilo,,,28/09/2026 16:51
 c56407e2-8092-4071-b31a-e306c90aa149,allele.dance,available,16.99,27.49,medium,low,6,namesilo,,,18/09/2026 10:44
 813ace79-54aa-4904-aca3-299d9fbfafb6,leaky.dance,available,10.48,36.98,medium,low,5,namecheap,,,22/08/2026 22:01
 53719704-ebc7-4cae-8510-4a5ae41ec14b,sufferer.dance,available,16.99,27.49,medium,low,8,namesilo,,,24/09/2026 22:36
@@ -156,13 +174,16 @@ f0408492-7e41-486b-adc2-5c03108f911d,respiratory.dance,available,17.99,,high,low
 6c6c0338-d362-4fe4-be8e-8b08033fdc7a,verbalize.dance,available,10.48,36.98,medium,low,9,namecheap,,,13/09/2026 00:14
 f9161c54-fc9d-4ffc-b324-ebc1b351ea29,heavyset.dance,available,10.48,36.98,medium,low,8,namecheap,,,21/08/2026 05:31
 16accb8a-c085-4435-924c-2a07d1bee7d5,positron.dance,available,16.99,27.49,medium,low,8,namesilo,,,19/09/2026 14:21
+c22acc33-01d5-4b37-9dd9-ac1cdc48fcf8,responding.dance,available,9.78,22.14,high,low,10,porkbun,,,28/09/2026 07:25
+dbb1f853-9b91-429e-8449-b8706ce21fc8,harness.dance,available,9.52,21.94,high,low,7,spaceship,,,29/09/2026 01:16
 50329564-3856-4b9a-be4a-47c24574351d,toiling.dance,available,10.48,36.98,medium,low,7,namecheap,,,14/08/2026 20:00
 013070f1-a171-482e-b251-ab5a17f55150,curtain.dance,available,17.99,,high,low,7,name.com,,,
 026a062c-d069-48d5-a59b-97e4dbf9ffb3,magnesium.dance,available,16.99,27.49,high,low,9,namesilo,,,20/09/2026 22:22
-b2d12123-cc16-486a-8020-cf833df06263,afternoon.dance,available,17.99,,high,low,9,name.com,,,
+b2d12123-cc16-486a-8020-cf833df06263,afternoon.dance,available,9.52,21.94,high,low,9,spaceship,,,28/09/2026 19:25
 93052e00-a997-493d-bdde-c8343a16c816,ambush.dance,available,10.48,36.98,high,low,6,namecheap,,,24/08/2026 12:29
 57189a87-819d-4a3e-a854-8fb80e170ee1,lizard.dance,available,17.99,,high,low,6,name.com,,,
 48d71058-99e0-447a-8d49-3a0c409712b1,rumination.dance,available,10.48,36.98,medium,low,10,namecheap,,,03/09/2026 11:31
+bc2cb23e-9edf-4814-80c2-630914b8849e,guild.dance,available,9.52,21.94,high,low,5,spaceship,,,29/09/2026 01:05
 726c664b-6899-4a9c-9e18-4886294a50eb,auspicious.dance,available,16.99,27.49,high,low,10,namesilo,,,22/09/2026 13:12
 4b22afbb-8a15-4fa5-85d6-6421800c1fc6,antonymous.dance,available,10.48,36.98,medium,low,10,namecheap,,,05/08/2026 20:16
 aa5e40e4-5216-4ef6-9ca7-2784c3ba0827,corelli.dance,available,16.99,27.49,medium,low,7,namesilo,,,20/09/2026 01:37
@@ -188,6 +209,7 @@ d8bddb24-ae51-45fa-abbf-fdbe90d87a1a,referring.dance,available,10.48,36.98,high,
 1cd72d9e-d709-4d85-9bb0-ede0516e40df,vols.dance,available,21.2,21.2,medium,low,4,cloudflare,,,27/09/2026 11:41
 5de40eda-02ff-4b36-afe6-9639620ecb43,essay.dance,available,16.99,27.49,high,low,5,namesilo,,,21/09/2026 01:17
 ea94e11e-06a9-4f37-94e4-98b8e2934522,hanukkah.dance,available,17.99,,high,low,8,name.com,,,
+ae0da97e-d201-4904-a6d5-923bbde70d1d,coroner.dance,available,21.2,21.2,medium,low,7,cloudflare,,,28/09/2026 09:27
 7696c208-3f9e-4624-8d34-8b38cdd2b987,portent.dance,available,10.48,36.98,medium,low,7,namecheap,,,09/09/2026 02:55
 37b33c20-5cf1-42bf-bdfa-6a13e76aa1e8,outflank.dance,available,10.48,36.98,medium,low,8,namecheap,,,09/08/2026 17:48
 414a05cb-e240-4369-a2b2-3f6054e8a448,curt.dance,available,10.48,36.98,medium,low,4,namecheap,,,11/08/2026 07:05
@@ -200,31 +222,33 @@ a9e0e375-23ac-4b52-af3a-9cd904770ce3,fair.dance,available,16.99,27.49,high,mediu
 6dfd7299-b895-4719-83f5-639306712ea8,respondent.dance,available,16.99,27.49,high,low,10,namesilo,,,22/09/2026 05:39
 7ef1b257-69c3-46e1-af3b-4c7151bd039c,felicitous.dance,available,10.48,36.98,medium,low,10,namecheap,,,18/08/2026 00:51
 9258564a-2088-4c20-9325-8d4526f4e6b5,frankish.dance,available,10.48,36.98,medium,low,8,namecheap,,,18/08/2026 14:14
+2646ea76-8a80-45e4-83fa-32f47909bcf2,skiing.dance,available,10.48,36.98,high,low,6,namecheap,,,28/09/2026 10:57
 9c8dedc8-60f0-49b1-9803-d86390e3d9eb,pyrogen.dance,available,10.48,36.98,medium,low,7,namecheap,,,09/09/2026 07:01
 bcfdb0d2-544a-4fd7-a761-52ec0e131a88,enjoying.dance,available,10.48,36.98,medium,low,8,namecheap,,,25/09/2026 21:02
 77a12f24-5ffc-4f3f-b63e-e5e649fb5b75,yowl.dance,available,10.48,36.98,medium,low,4,namecheap,,,23/09/2026 06:24
 8ccb668e-1605-42e1-acff-e963c076c628,catalogue.dance,available,16.99,27.49,high,low,9,namesilo,,,24/09/2026 13:08
 30468557-d70b-4006-816a-4c52ce341cb2,unsung.dance,available,10.48,36.98,medium,low,6,namecheap,,,12/09/2026 20:49
 ba0bb90a-5569-4a58-a9e2-755b44e15f9e,yams.dance,available,16.99,27.49,medium,low,4,namesilo,,,19/09/2026 22:19
+08a5103c-829b-48bf-9add-a10d6c0a139f,jamal.dance,available,9.52,21.94,medium,low,5,spaceship,,,29/09/2026 03:56
 02bb0d2b-84bf-4bbf-9a3a-90e97fb583bb,extensile.dance,available,10.48,36.98,medium,low,9,namecheap,,,17/08/2026 19:01
 1c3752e2-5e16-4fb7-8261-100978bd696a,adjustable.dance,available,10.48,36.98,high,low,10,namecheap,,,21/09/2026 18:40
 5f729126-801b-4b2f-9130-ae6c72ed2552,clench.dance,available,17.99,35.99,medium,low,6,name.com,,,24/09/2026 15:33
 932db51f-cee7-4659-9c97-aba99ac90ca9,ein.dance,available,10.48,36.98,high,low,3,namecheap,,,26/09/2026 03:08
+1774f153-a8ba-489e-b3af-d77fd4f04fc7,winifred.dance,available,16.99,27.49,medium,low,8,namesilo,,,28/09/2026 21:52
 2884b85e-6e20-4a61-be27-0faf084d47e6,benton.dance,available,16.99,27.49,high,low,6,namesilo,,,25/09/2026 17:00
 d3838640-b9e4-4fee-9643-bba8a191e5b9,glimpse.dance,available,10.48,36.98,high,low,7,namecheap,,,24/09/2026 18:42
 99139ca0-ff3e-43a4-b69f-761cad8e269e,flustered.dance,available,10.48,36.98,medium,low,9,namecheap,,,18/08/2026 09:29
 b1a3cbdc-c7f7-4985-8b37-34b4c65dd675,coincidence.dance,available,9.52,21.94,high,low,11,spaceship,,,27/09/2026 21:29
 d0ae1541-35a9-4e77-9e71-7ab00a1c6902,picked.dance,available,17.99,,high,low,6,name.com,,,
-d0319b11-599e-4450-83fc-18e9e745b93f,never.dance,available,,,high,low,5,,,,
 ad01cfad-3b46-4711-8346-aef4d6ae557c,googler.dance,available,17.99,,high,low,7,name.com,,,
-47c55c82-f19e-458d-84e2-7cdcd799d4ab,cooperate.dance,available,9.52,21.94,high,low,9,spaceship,,,27/09/2026 16:33
+47c55c82-f19e-458d-84e2-7cdcd799d4ab,cooperate.dance,available,9.78,22.14,high,low,9,porkbun,,,28/09/2026 17:32
 413ffc49-ea19-498c-a5d6-b203d789afbe,lustfully.dance,available,10.48,36.98,medium,low,9,namecheap,,,15/09/2026 13:12
 9fb16174-4383-4444-b72e-b3d9aabd93cb,reconciled.dance,available,10.48,36.98,high,low,10,namecheap,,,09/09/2026 11:49
 d9872761-7bda-45bf-9b59-60651af84176,xiv.dance,available,16.99,27.49,high,low,3,namesilo,,,21/09/2026 11:42
 ba92f019-5436-4f6f-9ea8-ffa3b38abce0,sequential.dance,available,10.48,36.98,high,low,10,namecheap,,,10/09/2026 04:27
 1e98a29a-14f2-47e4-b423-7938883f566c,avidly.dance,available,10.48,36.98,medium,low,6,namecheap,,,13/09/2026 22:53
 b580698c-7848-49ac-9518-885716ffa109,procedure.dance,available,16.99,27.49,high,low,9,namesilo,,,19/09/2026 02:44
-ba46709e-82c3-400c-80bb-f7b79929c6b4,library.dance,available,17.99,35.99,high,low,7,name.com,,,23/09/2026 17:30
+ba46709e-82c3-400c-80bb-f7b79929c6b4,library.dance,available,16.99,27.49,high,low,7,namesilo,,,28/09/2026 08:46
 8b328632-25fb-4128-ae1d-0e2e89f25048,bombast.dance,available,16.99,27.49,medium,low,7,namesilo,,,24/09/2026 03:35
 5b085853-1c27-4499-af0d-16d0c1760eda,summary.dance,available,16.99,27.49,high,low,7,namesilo,,,23/09/2026 17:08
 2aacf738-d531-4660-805a-557fd4800606,bosomed.dance,available,10.48,36.98,medium,low,7,namecheap,,,10/08/2026 20:23
@@ -232,9 +256,11 @@ ba46709e-82c3-400c-80bb-f7b79929c6b4,library.dance,available,17.99,35.99,high,lo
 867438bc-f9fa-488a-85be-568a8c96b5a2,frail.dance,available,10.48,36.98,high,low,5,namecheap,,,18/08/2026 13:59
 9ad7c16c-2bcf-458f-80b1-f2287e0b4f8b,adults.dance,available,16.99,27.49,medium,low,6,namesilo,,,27/09/2026 09:52
 877457fd-98fc-43c2-9116-f771dec40448,betimes.dance,available,10.48,36.98,medium,low,7,namecheap,,,13/09/2026 23:59
+0db5cd1d-a352-4203-9527-ad394e625ceb,trooper.dance,available,9.52,21.94,high,low,7,spaceship,,,29/09/2026 00:23
 b14cec8d-b645-4896-89e1-4ed26232f9a1,chiang.dance,available,10.48,36.98,medium,low,6,namecheap,,,25/09/2026 16:34
 006485ee-50a2-4be3-859b-1919c4a4dc64,clastic.dance,available,10.48,36.98,medium,low,7,namecheap,,,12/08/2026 09:56
-9cb34f62-05a3-4bb3-af09-0a495dcbd112,reference.dance,available,17.99,,high,low,9,name.com,,,
+9cb34f62-05a3-4bb3-af09-0a495dcbd112,reference.dance,available,16,,high,low,9,unstoppable,,,28/09/2026 18:25
+9940d285-b168-4e17-98e1-992ffa801b2d,peabody.dance,available,9.78,22.14,medium,low,7,porkbun,,,29/09/2026 00:46
 ab14e9a4-e319-4015-9c63-0085295ee9e6,wiped.dance,available,10.48,36.98,low,low,5,namecheap,,,28/09/2026 04:58
 14a6975f-f629-4929-a4d6-f34b7388fca0,stained.dance,available,10.48,36.98,medium,low,7,namecheap,,,10/09/2026 18:14
 6f1e9706-c5a1-4ca1-8ce2-5a3cfbff6063,hypnotic.dance,available,10.48,36.98,high,low,8,namecheap,,,21/08/2026 17:07
@@ -242,24 +268,29 @@ f5467685-9993-405b-a717-cf2bcd66e21b,idk.dance,available,17.99,,medium,low,3,nam
 c1c17315-03fe-4675-95dc-7c7ade9f54f1,personable.dance,available,10.48,36.98,high,low,10,namecheap,,,08/09/2026 17:59
 5c9e6063-2727-4245-bf7f-e8530770ea06,belief.dance,available,16.99,27.49,high,low,6,namesilo,,,23/09/2026 05:12
 354f9dd7-7d0d-4fd0-b896-37125d243f00,conciliate.dance,available,10.48,36.98,high,low,10,namecheap,,,18/08/2026 22:04
-5cb7db8a-d328-4823-a3aa-9883c7834704,skirt.dance,available,17.99,,high,low,5,name.com,,,
+5cb7db8a-d328-4823-a3aa-9883c7834704,skirt.dance,available,10.48,36.98,high,low,5,namecheap,,,29/09/2026 03:43
 072be71b-c845-446c-b509-33ea80449a2b,stan.dance,available,17.99,,high,low,4,name.com,,,
 de11ee88-2f70-4c23-a667-d913ce146363,oral.dance,available,10.48,36.98,high,low,4,namecheap,,,04/09/2026 17:14
+103b007e-db80-41ee-8124-d1e7d17e030d,shelley.dance,available,9.52,21.94,medium,low,7,spaceship,,,28/09/2026 10:20
 211185a9-8016-47e9-91f5-53bf347b3113,westwards.dance,available,10.48,36.98,medium,low,9,namecheap,,,13/09/2026 11:02
 0328bb48-493c-4a4e-919d-42ad2d8dcbfe,dignity.dance,available,17.99,,high,low,7,name.com,,,
 6ac5bdca-d853-4e32-b0f7-fcb4e7e5f4b4,machinist.dance,available,16.99,27.49,high,low,9,namesilo,,,19/09/2026 17:14
 cb484e0a-683d-4819-868e-f908b45784f6,barleycorn.dance,available,16.99,27.49,medium,low,10,namesilo,,,22/09/2026 06:31
+c5ccb075-12a1-4fd9-9f80-751576fdfb8a,holden.dance,available,9.78,22.14,high,low,6,porkbun,,,28/09/2026 16:09
 90679c7a-2b02-4a3b-82fb-fd255f60392d,harrington.dance,available,16.99,27.49,high,low,10,namesilo,,,25/09/2026 12:26
+0ab201f2-f076-4199-9562-a2b361e2d3b8,havana.dance,available,9.52,21.94,high,low,6,spaceship,,,28/09/2026 13:38
 06ef6792-4666-497e-8e57-fe7d3a038cf1,condone.dance,available,17.99,,high,low,7,name.com,,,
 08e3159e-8b65-45e5-ac41-4e00e2cf866d,delegation.dance,available,10.48,36.98,high,low,10,namecheap,,,24/09/2026 21:32
 34aaee64-83a0-4e24-bb04-777d07bdc55f,intention.dance,available,10.48,36.98,high,low,9,namecheap,,,22/08/2026 07:55
 accb582f-95de-43e7-8606-ed8f20afe363,ascendent.dance,available,10.48,36.98,medium,low,9,namecheap,,,
-2a90d13f-ebd1-408c-8ae0-1ad8011b434b,businessmen.dance,available,10.48,36.98,high,low,11,namecheap,,,21/09/2026 02:14
+135e47e9-b018-4f13-a437-23683e1b31b0,smiles.dance,available,21.2,21.2,high,low,6,cloudflare,,,28/09/2026 22:27
+2a90d13f-ebd1-408c-8ae0-1ad8011b434b,businessmen.dance,available,9.78,22.14,high,low,11,porkbun,,,28/09/2026 08:52
 620d07db-0163-4b7b-ab35-d23310836686,labial.dance,available,10.48,36.98,medium,low,6,namecheap,,,22/08/2026 17:19
 cfa376cc-9725-4e4c-b285-0a618b495aaf,vaulted.dance,available,10.48,36.98,high,low,7,namecheap,,,14/08/2026 15:39
 6aefa76b-36e6-4534-bc4b-cd99ce7154db,blow.dance,available,17.99,35.99,high,low,4,name.com,,,23/09/2026 01:59
 4955f846-e6c5-4ee6-aee3-0eff34e67dc0,matcha.dance,available,16.99,27.49,high,medium,6,namesilo,,,28/09/2026 05:33
 a40e1952-82d8-4a4a-894b-dacb21d61e17,queens.dance,available,17.99,,high,low,6,name.com,,,
+e831f3ac-653b-4995-a3d3-6bd5eaf2c473,darwin.dance,available,9.85,22.69,high,low,6,dynadot,,,29/09/2026 00:25
 42e9127e-07d2-4076-865e-3c765c02f902,fog.dance,available,16.99,27.49,high,low,3,namesilo,,,25/09/2026 23:40
 ffdfa063-4e9b-40b5-a959-dec8f96f0524,cunning.dance,available,16.99,27.49,medium,low,7,namesilo,,,24/09/2026 01:26
 5b8f5852-7966-49c2-b3e6-4e64ba43142f,whitener.dance,available,10.48,36.98,medium,low,8,namecheap,,,24/09/2026 03:50
@@ -274,11 +305,12 @@ ffdfa063-4e9b-40b5-a959-dec8f96f0524,cunning.dance,available,16.99,27.49,medium,
 ea047cef-8dff-4091-aa09-a129bf64b961,presents.dance,available,10.48,36.98,high,low,8,namecheap,,,08/09/2026 04:30
 7d03d598-ff0d-415e-9c59-0d65ea8fe81d,dropped.dance,available,10.48,36.98,medium,low,7,namecheap,,,25/09/2026 20:16
 398a9f23-8827-4f73-bad6-5a521adb789a,telltale.dance,available,10.48,36.98,high,low,8,namecheap,,,11/09/2026 10:35
+47f0517b-6a02-4ec8-b3f0-11ed6977d9b2,transactions.dance,available,9.52,21.94,high,low,12,spaceship,,,29/09/2026 02:35
 edf71a0b-5dd3-4dac-a876-565f54f719be,grandiose.dance,available,10.48,36.98,high,low,9,namecheap,,,20/08/2026 17:58
 1700c4e4-a376-46b3-881d-e7c3c173def6,cajole.dance,available,16.99,27.49,medium,low,6,namesilo,,,24/09/2026 04:10
 eca52cc5-491f-448c-b24b-747007cf61f1,angostura.dance,available,10.48,36.98,medium,low,9,namecheap,,,19/09/2026 07:08
 df03e361-f185-46ff-b030-a1aaacbc5e45,podgy.dance,available,10.48,36.98,low,low,5,namecheap,,,08/09/2026 22:22
-85f83fce-5707-43a0-8608-2ad737abaa8e,pound.dance,available,17.99,,high,low,5,name.com,,,
+85f83fce-5707-43a0-8608-2ad737abaa8e,pound.dance,available,16.99,27.49,medium,low,5,namesilo,,,29/09/2026 04:26
 dd608424-ddd3-4a0b-875d-4ba0270ada06,steep.dance,available,10.48,36.98,high,low,5,namecheap,,,17/08/2026 17:40
 90ff3242-95f5-43b2-b9a1-fbb4bf31ccf8,ascending.dance,available,10.48,36.98,high,low,9,namecheap,,,07/08/2026 00:51
 25a0728e-433e-418f-91c2-99847d4a3d04,gourmet.dance,available,16.99,27.49,high,low,7,namesilo,,,24/09/2026 14:33
@@ -318,10 +350,12 @@ bee71456-828d-4345-9e34-487bf055421f,blotto.dance,available,10.48,36.98,low,low,
 e2d9cd4e-c03c-4f47-915a-752bdd1dd4d3,molded.dance,available,10.48,36.98,medium,low,6,namecheap,,,25/08/2026 03:46
 38785067-24f1-4e86-8b2d-49dc19b39a76,courtroom.dance,available,17.99,,high,low,9,name.com,,,
 30a08aac-5cb7-442f-bd3d-fffc1d3e65e1,reticulate.dance,available,10.48,36.98,high,low,10,namecheap,,,09/09/2026 15:32
+9902f043-fe57-403e-898b-611255dbc6fa,forgiveness.dance,available,10.48,36.98,high,low,11,namecheap,,,28/09/2026 08:15
 a93e99e0-adc6-480a-90cc-a0c25cd54535,flack.dance,available,10.48,36.98,medium,low,5,namecheap,,,
 583b1447-1037-43a1-a83f-18042301955d,bubbles.dance,available,16.99,27.49,high,low,7,namesilo,,,17/09/2026 03:32
 550ebe41-98ec-4bfa-9fed-31322ef121f0,chthonian.dance,available,10.48,36.98,medium,low,9,namecheap,,,12/08/2026 07:26
 78827ad1-f184-4df3-8fa3-7759d8a0519d,daft.dance,available,10.48,36.98,high,low,4,namecheap,,,06/08/2026 20:50
+92980289-e465-4a40-a753-1d6656814d7c,margot.dance,available,9.85,22.69,high,low,6,dynadot,,,28/09/2026 21:14
 0875738a-5fc2-4262-a119-979a02723e39,lighter.dance,available,10.48,36.98,high,low,7,namecheap,,,22/09/2026 05:44
 e0db4c44-586a-443b-9542-8dd69ab7136e,untimely.dance,available,10.48,36.98,medium,low,8,namecheap,,,21/08/2026 19:32
 b1a6eca8-6384-4cd1-9d06-cc34b68fa2c1,parole.dance,available,16.99,27.49,high,low,6,namesilo,,,28/09/2026 05:28
@@ -343,8 +377,10 @@ f6562e4a-f8bc-4cba-b359-a831b0143596,twilit.dance,available,10.48,36.98,medium,l
 309d26e5-bf6f-40be-af99-b61e0fe69680,melville.dance,available,16.99,27.49,high,low,8,namesilo,,,25/09/2026 07:18
 e57680a4-7d76-4293-b481-68051db74e22,bellini.dance,available,16.99,27.49,high,low,7,namesilo,,,23/09/2026 06:15
 df929dda-3f48-41fa-9cd9-4d66d675edd4,hominal.dance,available,10.48,36.98,medium,low,7,namecheap,,,21/08/2026 11:35
+f39cb803-93f3-405d-a206-defb52c21aed,flaw.dance,available,10.48,36.98,medium,low,4,namecheap,,,29/09/2026 00:57
 529f427b-26a1-4e33-bf47-82d5b09bfa68,sammy.dance,available,16.99,27.49,high,low,5,namesilo,,,26/09/2026 03:25
 2958bccf-942b-414e-b8c0-5c447685b909,matey.dance,available,10.48,36.98,medium,low,5,namecheap,,,12/08/2026 07:40
+0a5953a6-a898-44ad-a860-8d837e44fde5,wilfred.dance,available,16,,medium,low,7,unstoppable,,,28/09/2026 07:49
 17a5a938-686d-46cc-8e1e-5296ee2c63a0,humped.dance,available,10.48,36.98,medium,low,6,namecheap,,,13/08/2026 07:40
 335dfe6b-1b5c-45bd-90a8-02db45aaf845,treasure.dance,available,16.99,27.49,high,low,8,namesilo,,,27/09/2026 06:38
 8f7ff111-9849-4dcd-8ffb-bb8eeab4a021,cool.dance,premium,35.4,35.4,high,medium,4,namesilo,,,23/09/2026 23:02
@@ -358,8 +394,10 @@ c5f9d728-9ca6-4d31-9233-97bc51a9b61d,metabolous.dance,available,10.48,36.98,medi
 46e6d091-d877-4bfe-98c3-d0128cfe22c8,unshod.dance,available,10.48,36.98,medium,low,6,namecheap,,,14/08/2026 09:48
 ce4a66e9-5432-4da0-b0f1-cdeef1ce1c14,coveted.dance,available,16.99,27.49,high,low,7,namesilo,,,24/09/2026 00:56
 fc1de321-2257-4376-945d-5b8f3746fc42,honorific.dance,available,10.48,36.98,medium,low,9,namecheap,,,21/08/2026 13:32
-08a2c01c-852d-4030-80f8-375e6687da94,bones.dance,available,17.99,,medium,low,5,name.com,,,
+08a2c01c-852d-4030-80f8-375e6687da94,bones.dance,available,10.48,36.98,medium,low,5,namecheap,,,29/09/2026 03:19
 df08a79a-d33d-472a-8868-e19a54a30416,caught.dance,available,17.99,,high,low,6,name.com,,,
+5e6383ba-a54f-4a2b-a660-3524f9181ad7,foucault.dance,available,21.2,21.2,medium,low,8,cloudflare,,,28/09/2026 19:15
+0c28f50e-7073-4268-8407-c9adab199b56,aldo.dance,available,16.99,27.49,high,low,4,namesilo,,,29/09/2026 04:10
 3a67a808-5d6f-4f09-a1b5-66599b14b14c,archangel.dance,available,10.48,36.98,high,low,9,namecheap,,,19/09/2026 05:59
 337ee2c7-615b-4381-ae0e-8773b4d2caa9,pigheaded.dance,available,10.48,36.98,medium,low,9,namecheap,,,11/08/2026 08:32
 0fbe2477-89e4-4e23-96c6-b4e188538fb9,occupant.dance,available,10.48,36.98,high,low,8,namecheap,,,09/09/2026 14:52
@@ -367,9 +405,12 @@ df08a79a-d33d-472a-8868-e19a54a30416,caught.dance,available,17.99,,high,low,6,na
 d6ad641e-6db1-4096-a623-f4f4a64e18bc,dorsum.dance,available,10.48,36.98,medium,low,6,namecheap,,,08/08/2026 05:12
 42e710b2-7aba-4ff8-9ba8-b0e4263aba11,madam.dance,available,16.99,27.49,high,low,5,namesilo,,,24/09/2026 10:51
 8ffb438e-f6bb-4b10-bf4f-25b9a88e3b56,toller.dance,available,16.99,27.49,medium,low,6,namesilo,,,23/09/2026 05:41
+afb4ef03-59f4-4f32-bcb6-2d5051beb8b7,monastery.dance,available,9.85,22.69,high,low,9,dynadot,,,28/09/2026 19:54
+9a3e3111-6976-4bcb-9629-0157313080f6,brenner.dance,available,21.2,21.2,medium,low,7,cloudflare,,,28/09/2026 22:08
 24b991b8-b45b-4881-9880-111c5d799406,mmr.dance,available,17.99,,high,low,3,name.com,,,
 a7726c57-537d-4069-8f25-24599e9b1c0b,amperage.dance,available,16.99,27.49,medium,low,8,namesilo,,,18/09/2026 23:07
 c8b5d0ee-95e8-43cd-b49d-b580258b20e4,muzzy.dance,available,10.48,36.98,medium,low,5,namecheap,,,10/08/2026 16:24
+b5bdb69a-7c9b-42b6-a437-4dff394c47b2,programming.dance,available,16.99,27.49,high,low,11,namesilo,,,28/09/2026 12:38
 5762b322-6f5f-4e91-b80f-579f1de273d1,heartfelt.dance,available,10.48,36.98,high,low,9,namecheap,,,21/08/2026 02:11
 56362d3b-6a6e-471a-8db6-ff6754183ed6,delicious.dance,available,10.48,36.98,high,low,9,namecheap,,,24/09/2026 05:16
 33b7b93b-675c-4201-832f-0f6097fbe720,carbonara.dance,available,16.99,27.49,high,low,9,namesilo,,,24/09/2026 12:46
@@ -384,7 +425,9 @@ fa3f138d-8b1f-478c-9961-30b26275a80f,doggedly.dance,available,10.48,36.98,medium
 eb76e695-54c2-4922-a515-56dda81cd51a,runway.dance,available,21.2,21.2,high,low,6,cloudflare,,,28/09/2026 06:39
 fd523fd8-4583-46c4-8878-fe8c90f20f72,cove.dance,available,10.48,36.98,high,low,4,namecheap,,,24/09/2026 18:51
 a50fb028-0440-41a1-b9af-0df0b52c3d1e,viii.dance,available,10.48,36.98,high,low,4,namecheap,,,
-904e7007-b93c-4a7e-b98e-65487f40211c,touch.dance,available,17.99,,high,low,5,name.com,,,
+c04506f3-0344-4ef0-b414-1931dac0c10d,whales.dance,available,9.52,21.94,medium,low,6,spaceship,,,28/09/2026 08:48
+904e7007-b93c-4a7e-b98e-65487f40211c,touch.dance,available,16,,high,low,5,unstoppable,,,28/09/2026 09:25
+633700ea-cb0a-4652-86ff-d29e79c79106,regards.dance,available,9.85,22.69,medium,low,7,dynadot,,,28/09/2026 12:38
 c691875a-f17e-4bc2-8900-3b576bac22bb,native.dance,available,10.48,36.98,high,low,6,namecheap,,,03/09/2026 13:45
 d080218b-9963-4333-a937-2bf676e4428d,petallike.dance,available,10.48,36.98,medium,low,9,namecheap,,,08/09/2026 18:13
 9853d1dc-1f61-4085-9318-f1501c8ca887,venturer.dance,available,16.99,27.49,high,low,8,namesilo,,,28/09/2026 07:03
@@ -397,6 +440,7 @@ d2627bfc-edc2-4ea5-98dc-2bfed678585a,peppy.dance,available,10.48,36.98,high,low,
 14f3fd09-4eee-4f88-9aaa-7b5d2b3ec491,amati.dance,available,16.99,27.49,high,low,5,namesilo,,,18/09/2026 16:09
 23680c0f-5a4f-4de2-9ca1-309a132de243,factitious.dance,available,10.48,36.98,medium,low,10,namecheap,,,17/08/2026 20:27
 4fb856ec-a194-41e9-bf9a-cf5cb40c6e68,blank.dance,available,10.48,36.98,high,medium,5,namecheap,,,22/09/2026 21:48
+a3368a70-f173-436f-94fa-6dc7a4cdf14f,sparrow.dance,available,16,,high,low,7,unstoppable,,,29/09/2026 00:43
 a220e0ad-7380-40d0-b319-b2967af182e4,ford.dance,available,,,high,high,4,,,,
 695462f3-1813-45f3-a9bc-2eff25680fa2,macro.dance,available,16.99,27.49,high,low,5,namesilo,,,25/09/2026 15:59
 10b2c4a0-fb1e-4d8f-bf49-7d2ca2b18695,atresia.dance,available,10.48,36.98,medium,low,7,namecheap,,,21/09/2026 00:42
@@ -406,6 +450,7 @@ d6639945-481d-437d-833d-635c538bf8ca,vestibular.dance,available,10.48,36.98,medi
 7bccfae6-c4df-446d-8d04-badb205bef83,prink.dance,available,16.99,27.49,medium,low,5,namesilo,,,21/09/2026 02:05
 673c3219-769c-4bfb-8aa5-2f2516b202f9,chinquapin.dance,available,16.99,27.49,medium,low,10,namesilo,,,18/09/2026 10:57
 31be2cb6-777d-4c07-9c1b-f1a7a18ad00f,buds.dance,available,16.99,27.49,medium,low,4,namesilo,,,20/09/2026 03:42
+816e745d-27fb-4ae8-b7ff-04e3276c7860,waits.dance,available,21.2,21.2,medium,low,5,cloudflare,,,28/09/2026 11:43
 53917c04-3b86-4b90-bc53-72f5a10b5781,aba.dance,available,16.99,27.49,high,low,3,namesilo,,,16/09/2026 13:42
 26194e80-83a2-4077-aa7f-818b67295162,binturong.dance,available,16.99,27.49,medium,low,9,namesilo,,,20/09/2026 02:47
 8ada103e-073e-46ee-8d70-0d5270a4a0e4,kathy.dance,available,9.52,21.94,high,low,5,spaceship,,,27/09/2026 19:14
@@ -434,11 +479,13 @@ bf0e4f6a-873a-4e69-9707-d9c799df9a5f,inert.dance,available,10.48,36.98,high,low,
 2fc5f9c3-977e-48a8-8a57-3d0028234a17,momently.dance,available,10.48,36.98,medium,low,8,namecheap,,,15/09/2026 15:21
 580c1fa8-a7fc-4e8c-9f47-91016556da0b,sinking.dance,available,16.99,27.49,medium,low,7,namesilo,,,28/09/2026 06:45
 c0e91bad-05d7-4c24-a666-b38f0a8d5fcc,bulging.dance,available,10.48,36.98,medium,low,7,namecheap,,,09/08/2026 13:41
+d85a0420-9fa5-405b-9813-09f38944f882,bonner.dance,available,10.48,36.98,high,low,6,namecheap,,,28/09/2026 07:28
 5d6466a1-ba40-4b83-a8f7-387e93c75642,organization.dance,available,9.52,21.94,high,low,12,spaceship,,,28/09/2026 03:32
+f5d87c71-9e6c-4b5d-bff3-120fa24e7238,practise.dance,available,21.2,21.2,high,low,8,cloudflare,,,29/09/2026 01:53
 3496657d-f163-4af5-a7a0-63c6909f6e45,maroon.dance,available,10.48,36.98,high,low,6,namecheap,,,11/08/2026 06:33
 2b1c8cc4-dae0-49ef-90d2-a1766c8735e2,wayne.dance,available,10.48,36.98,high,low,5,namecheap,,,19/09/2026 13:47
 16e4525d-1652-4214-849c-d0deaf782d16,coalescing.dance,available,10.48,36.98,medium,low,10,namecheap,,,12/08/2026 13:53
-7173ef15-d536-4dd7-ad6d-1b93c63357d5,america.dance,premium,118.8,118.8,high,low,7,namesilo,,,
+7173ef15-d536-4dd7-ad6d-1b93c63357d5,america.dance,premium,118.8,118.8,high,medium,7,namesilo,,,28/09/2026 20:53
 30ac6941-2511-4f18-a32c-7ca69be44e00,holland.dance,premium,118.8,118.8,high,low,7,namesilo,,,28/09/2026 02:07
 30571583-7400-485a-8715-32326293fcb3,windflower.dance,available,16.99,27.49,high,low,10,namesilo,,,19/09/2026 05:19
 3e4f03b3-fc2e-42e0-a3fa-0858c92be96a,communist.dance,available,16.99,27.49,high,low,9,namesilo,,,23/09/2026 16:14
@@ -451,7 +498,7 @@ c0e91bad-05d7-4c24-a666-b38f0a8d5fcc,bulging.dance,available,10.48,36.98,medium,
 26f6a17a-2a86-480e-afbe-3fa62aa224c4,clifford.dance,available,10.48,36.98,high,low,8,namecheap,,,25/09/2026 14:06
 7949048d-62dc-4610-8e60-8b7fad24c508,baldrick.dance,available,16.99,27.49,medium,low,8,namesilo,,,21/09/2026 21:46
 a3a72d4f-8979-4c8a-b8d4-ac9d40ead34d,smiled.dance,available,16.99,27.49,medium,low,6,namesilo,,,18/09/2026 01:26
-487f44d6-d99e-4f6a-9c70-f491c3551473,respond.dance,available,17.99,,high,low,7,name.com,,,
+487f44d6-d99e-4f6a-9c70-f491c3551473,respond.dance,available,9.52,21.94,high,low,7,spaceship,,,28/09/2026 21:35
 c5e9416c-01a2-4bfd-b3d2-6dd7957252a9,spots.dance,premium,85.8,85.8,high,low,5,namecheap,,,27/09/2026 04:00
 fbf734b8-49db-429d-906d-81777e08a898,niffy.dance,available,10.48,36.98,low,low,5,namecheap,,,03/09/2026 17:10
 187069eb-d75e-4f87-be5d-7188e9572171,tarnish.dance,available,10.48,36.98,medium,low,7,namecheap,,,24/08/2026 12:50
@@ -459,7 +506,7 @@ fbf734b8-49db-429d-906d-81777e08a898,niffy.dance,available,10.48,36.98,low,low,5
 519d59e8-16e7-4f58-9f93-f193384fcc04,keeper.dance,available,16.99,27.49,high,low,6,namesilo,,,24/09/2026 20:39
 c09e9977-1509-4f9c-bc63-36bd2d2c1b67,sneezes.dance,available,16.99,27.49,medium,low,7,namesilo,,,20/09/2026 09:46
 c1518167-34cb-4413-aaa5-9363f879ba6d,slurred.dance,available,10.48,36.98,medium,low,7,namecheap,,,10/09/2026 11:42
-a172247e-193f-46de-953c-57c889f33285,progress.dance,available,10.48,36.98,high,low,8,namecheap,,,21/09/2026 20:19
+a172247e-193f-46de-953c-57c889f33285,progress.dance,available,9.52,21.94,high,low,8,spaceship,,,28/09/2026 20:21
 7ec07532-b743-4f7e-80b4-860c8729a019,sul.dance,available,16.99,27.49,medium,low,3,namesilo,,,27/09/2026 10:19
 c098c072-ef1a-4581-abc2-e52293067f68,reformed.dance,available,10.48,36.98,high,low,9,namecheap,,,09/09/2026 10:53
 5f07f080-4afa-49a7-9bd6-7f3b48a7ecbe,contrasty.dance,available,10.48,36.98,medium,low,9,namecheap,,,12/08/2026 23:32
@@ -468,12 +515,15 @@ d55404b6-2087-499c-b420-d8f338f1f9ac,pita.dance,available,16.99,27.49,high,low,4
 8f984f76-63fa-42ee-9536-9d2769a7727a,contained.dance,available,16.99,27.49,high,low,9,namesilo,,,23/09/2026 21:42
 4159a64c-8f95-42ad-bd46-cda46659b6b9,moslem.dance,available,10.48,36.98,high,low,6,namecheap,,,22/08/2026 10:47
 3bbc8bf9-233a-471a-9cac-68890cc881f5,lighterman.dance,available,16.99,27.49,medium,low,10,namesilo,,,22/09/2026 05:46
+72216a0b-1ddc-4813-9cce-fbf454bdd272,deborah.dance,available,9.78,22.14,medium,low,7,porkbun,,,28/09/2026 12:59
 70e4167a-9105-4dcf-a3df-4a7f5dbd4ff1,arroyo.dance,available,16.99,27.49,medium,low,6,namesilo,,,20/09/2026 09:33
-227f8c01-7fd2-4845-bfb1-5a3b10c9a3c2,bell.dance,available,17.99,,high,low,4,name.com,,,
+227f8c01-7fd2-4845-bfb1-5a3b10c9a3c2,bell.dance,available,21.2,21.2,high,low,4,cloudflare,,,28/09/2026 20:18
+4da800f3-a17e-4c8a-a720-e837fddd1283,begun.dance,available,9.85,22.69,medium,low,5,dynadot,,,28/09/2026 08:15
 798cca7f-f4cc-47d1-9041-269c99bd9eaf,scroll.dance,available,10.48,36.98,high,low,6,namecheap,,,24/09/2026 20:30
 dfc8ac8a-3ef1-4959-8916-de73cdf98193,whitaker.dance,available,16.99,27.49,high,low,8,namesilo,,,27/09/2026 20:44
 da6d200b-b152-47b2-8bef-ea5f2990c593,corresponding.dance,available,17.99,,medium,low,13,name.com,,,
 aa37215a-12b1-4275-aa66-7ae4b679253e,magnified.dance,available,10.48,36.98,high,low,9,namecheap,,,24/08/2026 13:08
+e4454848-a050-49df-be30-01047e83e385,kendrick.dance,available,9.52,21.94,medium,low,8,spaceship,,,28/09/2026 08:02
 2fe6fed9-9df8-44bc-bbef-93d130155810,levantine.dance,available,10.48,36.98,medium,low,9,namecheap,,,23/08/2026 00:31
 a5a658c1-6203-4801-9bc3-00007e0299f8,amused.dance,available,10.48,36.98,high,low,6,namecheap,,,
 5e2f6d6c-7112-4958-9a16-fb0ae6192e3e,gray.dance,available,16.99,27.49,high,low,4,namesilo,,,24/09/2026 22:57
@@ -490,6 +540,7 @@ fff35976-f280-43c7-a05b-1520d37f66f0,louisa.dance,available,10.48,36.98,medium,l
 7b9efe11-16e8-47c5-bbee-234b9ecb223c,mete.dance,available,10.48,36.98,high,low,4,namecheap,,,10/08/2026 19:54
 abb25676-4a54-4a65-96c3-f7b8f11eecf3,babka.dance,available,16.99,27.49,high,low,5,namesilo,,,21/09/2026 12:47
 9dc54225-a9e9-4e2f-a42c-764569cb432e,spry.dance,available,10.48,36.98,high,low,4,namecheap,,,
+326a1c02-3e7e-4d86-b3ad-78d0d587fab9,quarrel.dance,available,16.99,27.49,medium,low,7,namesilo,,,28/09/2026 09:33
 9a49f6cf-6f78-4ca2-8ae9-d60373d6a848,vagus.dance,available,10.48,36.98,medium,low,5,namecheap,,,08/09/2026 22:09
 d106a51a-9400-418e-bb6b-62ad9bcf9c68,notched.dance,available,10.48,36.98,medium,low,7,namecheap,,,17/08/2026 12:35
 4623cb2f-cd9e-48c7-a719-d081294f6db3,uncle.dance,available,17.99,,high,low,5,name.com,,,
@@ -520,9 +571,11 @@ b9b74262-5bca-44cc-96c4-3180d58ee334,ensure.dance,available,17.99,,high,low,6,na
 781a52cb-4940-48ec-a15b-5ea4e4128383,abwatt.dance,available,10.48,36.98,medium,low,6,namecheap,,,16/09/2026 19:39
 e0dec188-ccff-4a0f-bc3c-5629d4ce5489,hydrogen.dance,available,16.99,27.49,high,low,8,namesilo,,,20/09/2026 21:53
 03654260-6eb3-4d71-bdb9-c3440e36941f,prosperous.dance,available,10.48,36.98,high,low,10,namecheap,,,10/08/2026 19:19
+065d27de-6876-4a2d-9a43-aff670955cba,xinjiang.dance,available,21.2,21.2,medium,low,8,cloudflare,,,28/09/2026 20:28
 1b8fc610-194e-42de-8460-d850da8a16ad,oxidised.dance,available,10.48,36.98,medium,low,8,namecheap,,,04/09/2026 22:28
 7c8e67e2-8786-4e49-8d40-dc476ec632d6,hokum.dance,available,10.48,36.98,medium,low,5,namecheap,,,03/09/2026 20:34
 be253f86-95d1-454c-bee6-35134ea0d31a,diverging.dance,available,10.48,36.98,high,low,9,namecheap,,,14/08/2026 13:37
+3d1300ca-2d00-4b69-bb5b-41fa0d2b12d3,orchid.dance,available,16,,high,low,6,unstoppable,,,28/09/2026 20:03
 a65ea8f3-1c62-4495-b1a1-0444e0be790c,hectically.dance,available,10.48,36.98,medium,low,10,namecheap,,,14/09/2026 20:02
 88c051cc-ae37-4a47-9fa9-4b2df1a8bbbb,squander.dance,available,10.48,36.98,medium,low,8,namecheap,,,13/09/2026 08:34
 eb9ab4b5-c632-45d4-9830-fd11c5cee035,whippy.dance,available,10.48,36.98,medium,low,6,namecheap,,,13/09/2026 11:26
@@ -538,7 +591,7 @@ c52c0111-0b98-4565-88c8-48597c2e9955,profiled.dance,available,10.48,36.98,medium
 931bc50a-119f-4d2f-b89d-4732b00495de,axletree.dance,available,10.48,36.98,medium,low,8,namecheap,,,21/09/2026 10:27
 f9da9a45-20b0-4c80-9232-0c3c3855400a,scant.dance,available,10.48,36.98,medium,low,5,namecheap,,,09/09/2026 22:36
 a794345b-e7a4-4baa-8eeb-678c04ed3e6d,darkling.dance,available,17.99,35.99,medium,low,8,name.com,,,13/08/2026 18:16
-8eb82dc4-e667-41db-8777-bde4d8f28a7c,accuser.dance,available,17.99,,medium,low,7,name.com,,,
+8eb82dc4-e667-41db-8777-bde4d8f28a7c,accuser.dance,available,16.99,27.49,medium,low,7,namesilo,,,28/09/2026 17:32
 e2a7e6b3-95f4-452f-9f25-0f123ab97783,finite.dance,available,10.48,36.98,high,low,6,namecheap,,,18/08/2026 05:02
 19b7c0cf-30d3-4531-94c6-3c03a6d7132f,songwriter.dance,available,16.99,27.49,high,low,10,namesilo,,,21/09/2026 22:37
 5925ad64-a55f-4bd2-b2c6-a3df94d2ce6d,cautious.dance,available,10.48,36.98,high,low,8,namecheap,,,11/08/2026 22:44
@@ -550,16 +603,20 @@ c7b8d8b2-b587-4152-8b5a-f7763ff2d2ea,ictic.dance,available,10.48,36.98,low,low,5
 b5ef8b0a-c7a7-4a00-b07b-952cebfb2f3c,narial.dance,available,10.48,36.98,medium,low,6,namecheap,,,03/09/2026 13:14
 db0de436-b869-4d5e-92d1-695622930c74,company.dance,premium,207.2,207.2,high,low,7,spaceship,,,28/09/2026 02:42
 7ae6c437-188e-4015-8206-96d6759d0f9b,libertine.dance,available,17.99,35.99,medium,low,9,name.com,,,13/08/2026 20:22
+e4fb5cc7-9d1f-49f9-beae-dc22f6f3be13,boulder.dance,available,9.52,21.94,medium,low,7,spaceship,,,28/09/2026 13:35
 dfe5221e-a5af-48fc-a2ef-487290eb568c,alkaline.dance,available,16.99,27.49,high,low,8,namesilo,,,22/09/2026 00:14
 984c30e6-609e-4c18-87b0-c5118cdddcd1,selflessly.dance,available,10.48,36.98,medium,low,10,namecheap,,,13/09/2026 19:23
 76e4c259-7002-458c-bb20-2f88078a4a27,bailor.dance,available,10.48,36.98,medium,low,6,namecheap,,,21/09/2026 19:14
 0a64e732-80eb-44a8-965d-c397e35b0ff9,passionate.dance,available,10.48,36.98,high,low,10,namecheap,,,27/09/2026 02:53
+128de023-b6fd-489d-a966-467a606b92e1,unto.dance,available,16.99,27.49,medium,low,4,namesilo,,,29/09/2026 03:05
 063153ef-04ee-46fe-baa1-08bd466cbc98,liegeman.dance,available,10.48,36.98,medium,low,8,namecheap,,,18/08/2026 03:05
-8b2dee47-8194-4339-803b-ba3b682744c7,alamo.dance,available,,,high,medium,5,,,,
 f815bb64-82f5-435f-81de-ff9377344b9b,coat.dance,available,17.99,,high,low,4,name.com,,,
+e8f1edf9-a81b-44b7-90e7-6630969fe09f,fragment.dance,available,9.52,21.94,high,low,8,spaceship,,,28/09/2026 19:15
 a2c02505-7104-4a73-a5f9-65fbca82b0b8,bestiality.dance,available,16.99,27.49,medium,low,10,namesilo,,,23/09/2026 10:39
+b4e0bf56-80d0-4094-bcb6-98a15cabe97d,tailor.dance,available,9.52,21.94,high,low,6,spaceship,,,28/09/2026 10:52
 9d1fea0a-2d02-4468-9ebe-420b1746db10,naval.dance,available,10.48,36.98,high,low,5,namecheap,,,03/09/2026 14:07
 df0d7899-55f6-42ab-8d59-2eb1dd402cc0,screwball.dance,available,10.48,36.98,medium,low,9,namecheap,,,20/08/2026 22:30
+05dd5922-a074-4e73-bc42-7571e2369711,castro.dance,available,16.99,27.49,medium,low,6,namesilo,,,28/09/2026 09:15
 e01f5a61-22ab-489a-bf34-8c4c92bcc6c5,deceptive.dance,available,10.48,36.98,medium,low,9,namecheap,,,13/08/2026 21:16
 8756e202-f6c0-41bb-9c5a-0cf8da2acaf3,puku.dance,available,16.99,27.49,medium,low,4,namesilo,,,17/09/2026 07:35
 02ce2971-4aea-4445-a3b1-e7abec4fedb0,ghent.dance,available,16.99,27.49,medium,low,5,namesilo,,,27/09/2026 04:10
@@ -567,12 +624,15 @@ e01f5a61-22ab-489a-bf34-8c4c92bcc6c5,deceptive.dance,available,10.48,36.98,mediu
 ae443c7f-09ae-417a-9341-788cf403658f,pizzeria.dance,available,17.99,,high,low,8,name.com,,,
 226408f8-5372-4aaa-a156-27e056876cb5,beckett.dance,available,16.99,27.49,high,low,7,namesilo,,,22/09/2026 22:39
 5f7a28e8-08c8-4a6a-8bee-80c28b77944b,mods.dance,available,17.99,,high,low,4,name.com,,,
+40b83fd4-7165-47ad-aa26-15e91acf8814,declaration.dance,available,9.52,21.94,high,low,11,spaceship,,,28/09/2026 12:33
 f8eb2845-ede7-469b-8deb-acfbed417cf2,earthlike.dance,available,10.48,36.98,medium,low,9,namecheap,,,14/08/2026 22:40
 2da00281-69a4-4292-a99f-5596d2c7e97e,cationic.dance,available,10.48,36.98,medium,low,8,namecheap,,,11/08/2026 22:07
 5d7150e9-0448-4a5d-8b6c-8967f4a69ac1,panasonic.dance,available,,,high,medium,9,,,,
+4693559e-c0ca-48fe-aebc-0923e141ccc8,sails.dance,available,21.2,21.2,high,low,5,cloudflare,,,28/09/2026 23:18
 a40daf6c-9f76-4622-982c-d92f35e0c140,limply.dance,available,10.48,36.98,medium,low,6,namecheap,,,15/09/2026 12:20
 278713f9-f9c8-4b61-ac74-5f7270189a00,babbitt.dance,available,16.99,27.49,medium,low,7,namesilo,,,21/09/2026 12:17
 3877957d-e4a9-4a59-9a33-8934492b0ec8,almsgiving.dance,available,16.99,27.49,medium,low,10,namesilo,,,18/09/2026 12:43
+24adec5c-84db-4854-91b8-062c42150927,convenience.dance,available,9.85,22.69,high,low,11,dynadot,,,28/09/2026 07:18
 d23e4f74-2db8-45e6-a616-603dceab99de,seeger.dance,available,10.48,36.98,high,low,6,namecheap,,,18/09/2026 01:49
 fc994676-05ed-4439-81d1-fab891f40cf5,tables.dance,available,10.48,36.98,high,low,6,namecheap,,,27/09/2026 02:00
 b9fb7e0e-bdac-407b-997c-5d821d720aa5,collector.dance,available,16.99,27.49,high,low,9,namesilo,,,16/09/2026 23:18
@@ -584,6 +644,7 @@ e1619535-376c-467e-82ae-9eb405c776f7,chock.dance,available,10.48,36.98,medium,lo
 2da7c74f-b964-45a5-b946-fd2886da07e3,feline.dance,available,10.48,36.98,high,low,6,namecheap,,,18/08/2026 00:53
 ca8bd2a1-1bba-416e-b4f3-1d7c204d47e5,jadestone.dance,available,10.48,36.98,medium,low,9,namecheap,,,22/08/2026 11:54
 9714850e-dd91-4526-8bdd-4d4127bd00dd,unwilling.dance,available,10.48,36.98,medium,low,9,namecheap,,,12/09/2026 22:40
+6cbcc5f7-8335-456d-9496-4f36749478a0,offend.dance,available,16,,medium,low,6,unstoppable,,,28/09/2026 18:28
 3c543675-78f9-4ad5-a1df-c2b98de3184c,ignatius.dance,available,16.99,27.49,medium,low,8,namesilo,,,27/09/2026 14:14
 d856592b-acf4-4142-9724-6752c27044d7,shakedown.dance,available,10.48,36.98,medium,low,9,namecheap,,,10/09/2026 05:40
 0be22d28-d395-4a07-9906-806ae91d6887,dickinson.dance,available,16.99,27.49,high,low,9,namesilo,,,25/09/2026 04:53
@@ -598,7 +659,7 @@ ac505f5a-35b6-4735-8118-384ee76b563f,nonsuch.dance,available,10.48,36.98,medium,
 e711b2dd-b560-48f4-9ffe-bf7843d05274,cave.dance,available,16.99,27.49,high,low,4,namesilo,,,24/09/2026 13:21
 46eee4f3-0ffb-4176-9286-e41b57eb136a,fearlessly.dance,available,10.48,36.98,medium,low,10,namecheap,,,14/09/2026 10:44
 599ae1a9-e337-45fa-b18e-5d31a7089efb,missing.dance,available,16.99,27.49,high,low,7,namesilo,,,25/09/2026 16:55
-6083afef-ae46-4cd1-8098-65ba4c9e8a39,tons.dance,available,17.99,,high,low,4,name.com,,,
+6083afef-ae46-4cd1-8098-65ba4c9e8a39,tons.dance,available,9.78,22.14,high,low,4,porkbun,,,28/09/2026 15:04
 085cad86-cf73-41a4-bb04-dae9697c3752,dependance.dance,available,16.99,27.49,medium,low,10,namesilo,,,17/09/2026 06:55
 574b5427-49b7-4aaa-b39f-bddf8612fe58,embracing.dance,available,17.99,,high,low,9,name.com,,,
 190bc4ac-707a-488c-8245-6dfddbfb8e1a,randall.dance,available,16,,high,low,7,unstoppable,,,28/09/2026 04:02
@@ -612,12 +673,14 @@ db2abeca-4207-4a4d-9817-33cc97d9192d,haul.dance,available,16.99,27.49,high,low,4
 c817d3c6-6410-4506-a4da-b27d3093f16c,variables.dance,available,17.99,,medium,low,9,name.com,,,
 cd10164a-8991-4fcd-8898-5a97eadcc67a,necrotic.dance,available,10.48,36.98,medium,low,8,namecheap,,,03/09/2026 14:45
 4b56c0c4-1a3e-431f-9fa5-98abf1b256d0,cohen.dance,available,16.99,27.49,high,low,5,namesilo,,,27/09/2026 03:21
-6b9f80fe-2644-4c3f-9a97-38d6cd9eede7,namely.dance,available,17.99,,medium,low,6,name.com,,,
+6b9f80fe-2644-4c3f-9a97-38d6cd9eede7,namely.dance,available,9.85,22.69,medium,low,6,dynadot,,,28/09/2026 16:21
 8aa07a73-61bb-4da5-b81f-fb3ddd534623,bismark.dance,available,16.99,27.49,medium,low,7,namesilo,,,23/09/2026 09:37
 a7501913-9b33-4bbc-b690-1085ac259d85,scrapper.dance,available,10.48,36.98,medium,low,8,namecheap,,,09/08/2026 13:35
+ef1149af-816d-44bf-b473-75e9a65ae707,competitive.dance,available,9.85,22.69,high,low,11,dynadot,,,28/09/2026 07:17
 50c597e1-d2c1-45f2-893d-9afe74f805f4,geometry.dance,available,17.99,,high,low,8,name.com,,,
 c0276796-baf1-4191-a2d0-1cb401e8ced2,chaste.dance,available,10.48,36.98,high,low,6,namecheap,,,12/08/2026 03:11
 7e789de6-f58c-4e43-ad69-06f2e68ef587,earful.dance,available,16.99,27.49,medium,low,6,namesilo,,,22/09/2026 17:11
+d282d3c9-c23d-4dfb-bef0-67b33c54552d,beer.dance,available,16.99,27.49,high,medium,4,namesilo,,,29/09/2026 02:00
 8509fe10-7bf4-40a1-9ace-7c5a3c6aaa01,outwards.dance,available,10.48,36.98,medium,low,8,namecheap,,,04/09/2026 19:50
 a0e0d18b-b659-4a88-bfcb-004b28a7d4f1,cranial.dance,available,10.48,36.98,medium,low,7,namecheap,,,13/08/2026 04:49
 7c07923d-488e-4997-a72f-61fe00d2fa01,zambian.dance,available,10.48,36.98,high,low,7,namecheap,,,13/09/2026 15:05
@@ -632,8 +695,9 @@ c39e5e06-d42d-498f-a866-7563544bf06a,proofed.dance,available,10.48,36.98,medium,
 38d38ddb-601c-4bb5-8f12-9981f149e7bb,adjectives.dance,available,16.99,27.49,medium,low,10,namesilo,,,18/09/2026 16:11
 5620521b-117c-44cb-93dd-d206223653d9,knapsack.dance,available,10.48,36.98,high,low,8,namecheap,,,21/09/2026 14:39
 15dc3ce3-8082-444a-8859-e6471de84bc3,tyrannical.dance,available,10.48,36.98,medium,low,10,namecheap,,,07/08/2026 19:12
+9269d7d2-e4ec-40bc-8380-7353c55561e4,angie.dance,available,9.52,21.94,medium,low,5,spaceship,,,28/09/2026 16:18
 770968b9-447c-4c38-bd40-e3fe91cf91d1,demolition.dance,available,16.99,27.49,high,low,10,namesilo,,,24/09/2026 21:50
-ab50ec76-85fd-4caa-88fb-954d5fc3f996,job.dance,premium,123.75,,high,low,3,name.com,,,
+ab50ec76-85fd-4caa-88fb-954d5fc3f996,job.dance,premium,118.8,118.8,high,medium,3,namesilo,,,29/09/2026 03:34
 170b4d3f-e25c-47ec-9b3d-62fab1d68d75,regular.dance,available,16.99,27.49,high,low,7,namesilo,,,27/09/2026 11:38
 2dd53147-ba39-4f86-9096-4f83dd669f59,truthful.dance,available,10.48,36.98,high,low,8,namecheap,,,11/09/2026 20:51
 1edd730f-ac1c-4e6d-bf51-8ac1a4b2f799,downcast.dance,available,10.48,36.98,medium,low,8,namecheap,,,14/08/2026 17:33
@@ -643,6 +707,7 @@ addff54b-7ed4-40c0-a545-7f5e733132bd,onto.dance,available,17.99,,high,low,4,name
 292e9344-ab27-4621-a5a2-909f105eacb4,error.dance,available,16.99,27.49,high,low,5,namesilo,,,24/09/2026 16:56
 fc3d00e4-1837-41a5-812c-d13c0446e71b,cooperation.dance,available,16.99,27.49,high,low,11,namesilo,,,28/09/2026 04:34
 11607a14-49e1-49de-870b-1315130ccdd2,occurring.dance,available,17.99,,high,low,9,name.com,,,
+f8b345ca-1572-4ca8-9b7c-513dd87daf28,becker.dance,available,16.99,27.49,high,low,6,namesilo,,,29/09/2026 03:35
 2d540bbf-1c02-4045-bdde-d1f934fcee04,hardbound.dance,available,10.48,36.98,medium,low,9,namecheap,,,21/08/2026 00:42
 1bfaaaec-3705-494a-a4b4-5f3b10d5f39c,criterial.dance,available,10.48,36.98,medium,low,9,namecheap,,,13/08/2026 07:27
 bb5e185f-0dd8-4fe8-bc30-3eb0e83f2c21,cozily.dance,available,10.48,36.98,medium,low,6,namecheap,,,14/09/2026 08:48
@@ -651,13 +716,14 @@ b32e42f6-027d-4385-8cdb-feb6f4f9fe21,uncovering.dance,available,16.99,27.49,medi
 f99d890f-c082-4b84-bab8-7bc2bd1b1812,geocentric.dance,available,10.48,36.98,medium,low,10,namecheap,,,18/08/2026 22:16
 354e120d-5d69-4483-9b29-e56e71dc921e,diluted.dance,available,10.48,36.98,medium,low,7,namecheap,,,14/08/2026 07:45
 32d5c559-e8db-4f69-a2c2-5ea6ad1e3ce6,ferguson.dance,available,10.48,36.98,high,low,8,namecheap,,,25/09/2026 17:55
+466f210a-eb5b-40d3-b11d-3e503a563822,challenged.dance,available,16,,medium,low,10,unstoppable,,,28/09/2026 11:21
 658efef7-3768-4231-b018-eb33aafd59a5,she.dance,premium,118.8,118.8,high,low,3,namesilo,,,
 c6281843-c7e4-4785-a9d5-0b7ab75cbb22,bivalve.dance,available,10.48,36.98,high,low,7,namecheap,,,10/08/2026 09:09
 4e02e9ce-d1f2-4421-ab28-3858048d804c,fargo.dance,available,16.99,27.49,high,low,5,namesilo,,,25/09/2026 22:42
 cd078b53-a16a-4abc-93b2-26c1b66b8a3c,fireproof.dance,available,10.48,36.98,high,low,9,namecheap,,,18/08/2026 05:07
 07e439c8-81a6-4a8a-8de4-3e2a9ce6ec5c,mystified.dance,available,10.48,36.98,medium,low,9,namecheap,,,24/08/2026 21:32
+7a119808-2322-4fd1-abc1-6645542e14e1,leavitt.dance,available,9.52,21.94,medium,low,7,spaceship,,,29/09/2026 04:25
 5d1ba7f4-35cb-4978-919a-773384d6d7cc,agony.dance,available,10.48,36.98,medium,low,5,namecheap,,,11/09/2026 01:10
-c5b08644-fa4a-43f4-b792-d9efae3bda4d,reply.dance,available,17.99,,high,low,5,name.com,,,
 60dfc11d-8198-4329-a0d4-20b341f81a96,published.dance,available,10.48,36.98,high,low,9,namecheap,,,27/09/2026 07:35
 3e2a68a0-e6d8-4278-8bbf-cd34dfadfa9c,atlanta.dance,premium,128.7,128.7,high,low,7,namecheap,,,20/09/2026 21:31
 3f75372a-bc94-4b61-8406-ed0f48d5be3a,article.dance,available,16.99,27.49,high,low,7,namesilo,,,20/09/2026 11:12
@@ -675,6 +741,7 @@ d88620e8-17c1-421c-8363-d1b4cc12f94b,rex.dance,available,16.99,27.49,high,low,3,
 426c6de8-b7be-4f90-87fe-bd062c84eb30,goofproof.dance,available,10.48,36.98,medium,low,9,namecheap,,,18/08/2026 10:41
 56407582-f940-4ce8-8820-18d40c42cd98,uruguayan.dance,available,10.48,36.98,high,low,9,namecheap,,,12/09/2026 23:55
 229cf346-d287-49d3-baec-9892e591dce9,settings.dance,available,10.48,36.98,medium,low,8,namecheap,,,17/09/2026 13:18
+b42e05f1-fe6a-4b18-a9a4-991d1115121b,compelled.dance,available,16.99,27.49,low,low,9,namesilo,,,28/09/2026 23:06
 ce9d48d3-b093-4893-8513-f716cb23e43a,ripely.dance,available,10.48,36.98,medium,low,6,namecheap,,,15/09/2026 23:48
 4bc8137f-5177-4789-93e5-9fe78902bc91,felt.dance,available,10.48,36.98,high,low,4,namecheap,,,25/09/2026 18:07
 a37b1137-7092-4e94-a691-7b2e2c62266b,insane.dance,available,10.48,36.98,medium,low,6,namecheap,,,21/08/2026 00:58
@@ -696,12 +763,15 @@ f7ba4fc5-57dd-4f35-83d1-7cd07a0c65c8,silences.dance,available,16.99,27.49,medium
 e3ed07c0-e737-493e-a68a-c5584b60ecb3,bombs.dance,available,17.99,35.99,medium,low,5,name.com,,,25/09/2026 21:33
 2458f50c-3aaa-4ea8-b335-f74b31bb650b,neutered.dance,available,10.48,36.98,medium,low,8,namecheap,,,03/09/2026 16:35
 27f64050-3668-4c5d-89a4-4544ffd5d2d4,bagnio.dance,available,10.48,36.98,medium,low,6,namecheap,,,21/09/2026 18:19
+85f4884d-35f4-4a02-b097-9f3b4d0052dd,goats.dance,available,16,,medium,low,5,unstoppable,,,29/09/2026 04:56
 01f7582f-1f78-4460-9d55-d1f05d7f7210,autotomic.dance,available,10.48,36.98,medium,low,9,namecheap,,,07/08/2026 21:13
 25551589-3753-421f-9534-8ef37004300b,lurid.dance,available,10.48,36.98,medium,low,5,namecheap,,,24/08/2026 11:42
 c703280e-001c-4253-a423-d0726e097190,ambitious.dance,available,10.48,36.98,high,low,9,namecheap,,,22/09/2026 03:59
 7e980fec-15b6-4ec4-a014-60543d113ca9,detection.dance,available,17.99,,high,low,9,name.com,,,
 aaf04fc0-cb62-4be9-b504-10a0ec8941f7,sedentary.dance,available,10.48,36.98,medium,low,9,namecheap,,,10/09/2026 01:36
 f5000a70-501d-4d8d-8803-a3456796709e,ardently.dance,available,10.48,36.98,medium,low,8,namecheap,,,13/09/2026 20:41
+28ac3ca1-e114-4f94-b4b1-b7519680bde4,duval.dance,available,16.99,27.49,medium,low,5,namesilo,,,28/09/2026 11:57
+88866b1f-40c1-4480-b45c-c2931ade7747,adi.dance,premium,38.94,38.94,high,low,3,namesilo,,,28/09/2026 16:16
 848b6fe5-6159-44ff-a8a3-8803315973f4,diane.dance,available,10.48,36.98,high,low,5,namecheap,,,25/09/2026 19:09
 2b14fe7d-99c7-44d5-91ab-b8a32209c3d2,good.dance,premium,102.67,102.67,high,medium,4,spaceship,,,28/09/2026 04:33
 d8443f74-0aaf-4d02-9440-9acc51c3c222,passes.dance,available,10.48,36.98,medium,low,6,namecheap,,,27/09/2026 02:49
@@ -709,6 +779,7 @@ b2ddda84-d86d-411f-8ecc-f2b3e5f1c3f5,eagle.dance,available,10.48,36.98,high,low,
 da3f2787-356f-4bb1-aa22-7c700f71abd4,famed.dance,available,10.48,36.98,high,low,5,namecheap,,,11/08/2026 23:12
 91af883c-ea09-4cff-b48a-48cc63642a0b,chainlike.dance,available,10.48,36.98,medium,low,9,namecheap,,,11/08/2026 21:34
 5899e8ce-f056-408a-b8de-d1261fbc9699,agreements.dance,available,16.99,27.49,medium,low,10,namesilo,,,17/09/2026 03:09
+93b4c3cc-068e-4571-938d-837db3f15b1a,preaching.dance,available,9.52,21.94,high,low,9,spaceship,,,28/09/2026 15:06
 fb375a9b-7793-43da-ba9c-d5cff86ae060,maculate.dance,available,10.48,36.98,medium,low,8,namecheap,,,13/08/2026 23:26
 a5befc07-ca2f-46b2-8038-517d3d48c676,unfathomed.dance,available,10.48,36.98,medium,low,10,namecheap,,,12/09/2026 09:57
 3c893ed4-8372-4a29-99e3-f4da40958b17,uncomfortable.dance,available,16.99,27.49,medium,low,13,namesilo,,,26/09/2026 00:44
@@ -725,7 +796,7 @@ e980964e-6aad-4fc0-8940-95d3e4d73771,validation.dance,available,9.85,22.69,high,
 11bd0add-6e17-4ef6-abd0-6dcaa73c1265,shackled.dance,available,10.48,36.98,medium,low,8,namecheap,,,18/08/2026 02:56
 8c55121c-24b2-474e-b09a-4b7553509545,harijan.dance,available,10.48,36.98,medium,low,7,namecheap,,,12/09/2026 21:38
 7c348147-6795-4c30-8ed3-0af33417342b,basketful.dance,available,16.99,27.49,medium,low,9,namesilo,,,22/09/2026 11:27
-90cd3f4b-0509-4849-9b30-739227804758,basis.dance,available,17.99,,high,low,5,name.com,,,
+90cd3f4b-0509-4849-9b30-739227804758,basis.dance,available,9.78,22.14,high,low,5,porkbun,,,29/09/2026 01:24
 63cdb795-0f5f-48b5-99aa-21ebef3f5e04,slicked.dance,available,10.48,36.98,medium,low,7,namecheap,,,08/09/2026 20:52
 96a27b23-67b0-4fcd-b373-1bfcbdb71e11,proustian.dance,available,10.48,36.98,medium,low,9,namecheap,,,09/09/2026 04:22
 f39af4d2-da38-4aad-9534-37c7266f60c6,streisand.dance,available,16.99,27.49,high,low,9,namesilo,,,22/09/2026 05:03
@@ -734,14 +805,16 @@ fbc7236f-0c47-415a-8e55-8fe6104cff09,becomingly.dance,available,10.48,36.98,medi
 8c290a99-199d-449f-a4b2-b7b50425d82d,matthews.dance,available,10.48,36.98,high,low,8,namecheap,,,25/09/2026 19:36
 b48bc0d4-595b-4fdb-978f-8cbf9a7dc880,irritate.dance,available,17.99,,medium,low,8,name.com,,,
 d370eeea-15db-4871-b65f-de857316832e,appointment.dance,available,16,27.49,high,low,11,unstoppable,,,28/09/2026 06:29
-b1444b0b-33da-4dd4-a7fe-7767cba3fcb9,baguette.dance,available,17.99,,high,low,8,name.com,,,
+b1444b0b-33da-4dd4-a7fe-7767cba3fcb9,baguette.dance,available,9.85,22.69,high,low,8,dynadot,,,29/09/2026 00:33
 37e7f826-4ffa-4c24-95d5-05864f40557b,clues.dance,available,9.52,21.94,medium,low,5,spaceship,,,28/09/2026 05:05
 650146c1-24a5-45ec-acd0-68b95ffad9f1,material.dance,available,16.99,27.49,high,low,8,namesilo,,,23/09/2026 23:27
 e515d493-053d-4cb8-acb2-7149ccbf733b,emboldened.dance,available,10.48,36.98,medium,low,10,namecheap,,,16/08/2026 10:22
+b296ebbd-ca12-434f-a6e8-151496f0a9ef,morphine.dance,available,9.85,22.69,medium,low,8,dynadot,,,28/09/2026 10:27
 53f4644b-d448-4757-a8b1-07b3b16ad2f9,cordiality.dance,available,16.99,27.49,high,low,10,namesilo,,,18/09/2026 21:58
 acef5b8b-86c0-43e9-a219-a0da9caf0ccb,kerensky.dance,available,16.99,27.49,high,low,8,namesilo,,,18/09/2026 05:02
 47df345e-fbca-4918-a8a2-66908407684b,directing.dance,available,16.99,27.49,high,low,9,namesilo,,,24/09/2026 10:51
 3b1798f9-1001-4459-b209-05aca048f4f6,styptic.dance,available,10.48,36.98,medium,low,7,namecheap,,,07/08/2026 10:00
+9ca40849-dc07-4aaf-8907-d9f962714e25,greeting.dance,available,9.85,22.69,high,low,8,dynadot,,,28/09/2026 14:22
 5be3ba2e-bf5d-45b5-a097-ba91a95743c3,metric.dance,available,17.99,35.99,high,low,6,name.com,,,25/09/2026 19:58
 373fa87a-6a6f-43aa-b544-e258a4c09bda,zack.dance,available,9.52,21.94,high,low,4,spaceship,,,27/09/2026 18:11
 acc818f8-a496-4309-bd52-57ab108ebfc4,removed.dance,available,16.99,27.49,high,low,7,namesilo,,,26/09/2026 00:50
@@ -775,6 +848,7 @@ e7a0e1df-e4a7-4648-a832-18e1da563280,fragrant.dance,available,10.48,36.98,high,l
 3ecdd897-eb83-4668-b2ac-c5e2f056d1f6,maintained.dance,available,16.99,27.49,high,low,10,namesilo,,,25/09/2026 12:29
 016c5ab7-040e-49aa-8bfd-9340a2b94891,bentonite.dance,available,10.48,36.98,high,low,9,namecheap,,,23/09/2026 08:46
 8fe1d031-2d5b-4856-a624-42970fa676f0,unheaded.dance,available,10.48,36.98,medium,low,8,namecheap,,,12/09/2026 12:06
+985146b4-79c2-44fa-9dcc-be7b5d3ecd71,herod.dance,available,9.52,21.94,medium,low,5,spaceship,,,28/09/2026 14:26
 07c1c15c-b596-4f9b-ad7a-99f4ea0521e7,encomium.dance,available,10.48,36.98,high,low,8,namecheap,,,05/09/2026 00:40
 dc17ce80-7929-46c8-92fe-97f8781c6d25,bragg.dance,available,16.99,27.49,medium,low,5,namesilo,,,25/09/2026 21:58
 150b07d1-d0da-4380-b44c-c0cad917da17,coy.dance,available,16.99,27.49,high,low,3,namesilo,,,24/09/2026 01:10
@@ -784,15 +858,17 @@ d54bc4c6-4ace-45f5-9525-594b9f4a6921,quieten.dance,available,10.48,36.98,medium,
 db5cbd0d-af5e-4edd-8c60-918211b69cb1,deprave.dance,available,10.48,36.98,medium,low,7,namecheap,,,13/08/2026 02:24
 497813b3-031d-4cd3-8a02-9f6c1b584545,microbar.dance,available,10.48,36.98,medium,low,8,namecheap,,,22/09/2026 03:48
 a40af7ed-78ce-4816-86ef-631d82f71b3e,appropriate.dance,available,16.99,27.49,high,low,11,namesilo,,,25/09/2026 11:22
+8feb2da7-4636-42cd-9753-9ed2ef4b339c,hog.dance,available,10.48,36.98,high,low,3,namecheap,,,28/09/2026 10:04
 1cd0a7c8-9b24-4c12-b8bf-8b01c8b470e5,stack.dance,available,10.48,36.98,high,medium,5,namecheap,,,25/08/2026 00:45
 4b4575f8-1c53-41b5-b783-cf346b07ff8a,pride.dance,available,17.99,,high,low,5,name.com,,,
+ba769f32-f61f-4401-aa90-4bde390d376a,vincennes.dance,available,10.48,36.98,medium,low,9,namecheap,,,28/09/2026 22:26
 534ea62f-7c56-4ae9-a050-3ef6bd38fbe7,contrasting.dance,available,17.99,,high,low,11,name.com,,,
 b146c724-bbe4-466b-b6c7-c8a8d89e4c90,beak.dance,available,16.99,27.49,high,low,4,namesilo,,,22/09/2026 19:41
 7fc0ac7a-9794-4ab5-beb8-662cda3cbb61,cleveland.dance,premium,118.8,118.8,high,low,9,namesilo,,,
 1fd95460-1833-4557-9ed0-384fb9865e4d,arcsec.dance,available,16.99,27.49,medium,low,6,namesilo,,,20/09/2026 01:25
 33a4a8a5-8863-4202-a86b-1d5dffadb08f,dictated.dance,available,10.48,36.98,medium,low,8,namecheap,,,14/08/2026 06:36
 5bd2949a-4ab9-49a3-a485-8d95db32d80b,lindsey.dance,premium,128.7,128.7,high,low,7,namecheap,,,25/09/2026 19:35
-0fd92627-63ba-4246-8763-947772ead5f3,hook.dance,available,17.99,,high,low,4,name.com,,,
+0fd92627-63ba-4246-8763-947772ead5f3,hook.dance,available,16,,high,low,4,unstoppable,,,28/09/2026 18:24
 d3658e4b-6edf-43f3-b70e-abe19e5549e2,sanford.dance,available,16.99,27.49,medium,low,7,namesilo,,,25/09/2026 16:16
 bfd4b734-1e1a-4c13-9140-13a02c71a44e,benzene.dance,available,16.99,27.49,high,low,7,namesilo,,,23/09/2026 08:52
 4e8f7d39-1801-4daa-a1e7-b1d6c1584945,donee.dance,available,10.48,36.98,medium,low,5,namecheap,,,09/08/2026 14:26
@@ -804,6 +880,7 @@ c9ff83a0-e277-44cf-9d84-3344f9bc3806,vitamin.dance,available,10.48,36.98,high,lo
 6b750409-ef32-4b26-b935-8dbff5c986b6,megalithic.dance,available,10.48,36.98,medium,low,10,namecheap,,,24/08/2026 19:24
 0d05bd5a-eba8-46b4-a728-75a6f09fa916,sporty.dance,available,10.48,36.98,high,low,6,namecheap,,,10/09/2026 16:35
 659bdc47-56a1-4c9c-9971-edc867ebce57,capitate.dance,available,10.48,36.98,high,low,8,namecheap,,,11/08/2026 17:57
+f3a0234e-6cd3-4433-8f4c-973dd9104dec,waving.dance,available,9.52,21.94,high,low,6,spaceship,,,28/09/2026 15:32
 db4ccec1-c1ca-4adf-9697-de29d5a4d9c5,reynolds.dance,available,10.48,36.98,high,low,8,namecheap,,,25/09/2026 10:19
 aea681dc-b326-4c9b-9e26-0a152ec79e5c,blatta.dance,available,16.99,27.49,medium,low,6,namesilo,,,24/09/2026 04:54
 a85c07f4-7ed8-467a-8d08-446fe09d1737,trumpet.dance,available,10.48,36.98,high,low,7,namecheap,,,24/09/2026 18:17
@@ -822,6 +899,7 @@ d5c93546-bf73-45d7-bc53-3a327b70c2f4,arame.dance,available,16.99,27.49,medium,lo
 427479a9-2182-44c2-b93e-307791a3925b,concussion.dance,available,17.99,,high,low,10,name.com,,,
 6d60ca56-d245-445a-84e5-c743eb54a89d,malted.dance,available,10.48,36.98,high,low,6,namecheap,,,24/08/2026 14:12
 4ef05960-5933-4c53-b1e2-cc9b113da700,tasked.dance,available,10.48,36.98,medium,low,6,namecheap,,,20/09/2026 17:24
+8e8dad92-7fd3-4772-afd4-10fe5e43d8db,aquino.dance,available,10.48,36.98,medium,low,6,namecheap,,,28/09/2026 22:09
 80299dc5-56b5-49a8-913e-d268d45764ac,yellow.dance,available,16.99,27.49,high,medium,6,namesilo,,,23/09/2026 14:15
 c06335c8-2265-49d7-942e-1f5b503bcd05,tours.dance,available,17.99,,high,low,5,name.com,,,
 f0a8bceb-7c7e-4298-aac4-14d4bc90dd1e,rucksack.dance,available,16.99,27.49,high,low,8,namesilo,,,21/09/2026 14:41
@@ -851,6 +929,7 @@ f4a8d15f-42a5-45f2-bcba-a7b31ebe0190,araneus.dance,available,16.99,27.49,medium,
 98e99f15-a39f-40fa-8062-d1a54ebaefaf,pig.dance,available,17.99,,high,low,3,name.com,,,
 23408b80-4faa-4b4f-a067-cc349bfda4fb,logistic.dance,available,10.48,36.98,high,low,8,namecheap,,,24/08/2026 08:52
 cb99787d-ee2f-47bd-99fe-99e4646f9f14,isoclinic.dance,available,10.48,36.98,medium,low,9,namecheap,,,22/08/2026 11:02
+f73b93cc-b9f2-4c56-97bb-a24a84e99d10,layers.dance,available,9.52,21.94,medium,low,6,spaceship,,,29/09/2026 04:54
 a68a1ffe-bd60-453a-8d04-ff4f09f593b5,anonym.dance,available,16.99,27.49,medium,low,6,namesilo,,,19/09/2026 11:37
 a8d1b506-43e2-448c-b4c9-b96d46a20ac3,exercise.dance,premium,118.8,118.8,high,low,8,namesilo,,,19/09/2026 09:45
 4d30e1fe-6bc7-458e-a19b-df0fef35b2f1,mustard.dance,available,9.52,21.94,high,low,7,spaceship,,,28/09/2026 06:28
@@ -858,11 +937,16 @@ a8d1b506-43e2-448c-b4c9-b96d46a20ac3,exercise.dance,premium,118.8,118.8,high,low
 daa13a5c-93f0-4b93-9e08-2983f4c2bbd9,becomes.dance,available,16.99,27.49,medium,low,7,namesilo,,,27/09/2026 10:31
 f28fdf8b-86fa-4a64-9ce4-0bd61468eb64,styling.dance,available,10.48,36.98,high,low,7,namecheap,,,17/09/2026 18:14
 a9e5abca-ebad-4784-a268-7484e211cceb,xxvii.dance,available,10.48,36.98,medium,low,5,namecheap,,,
+a8f7d9b5-f5cd-4c99-94d8-79f045cd0ab7,cara.dance,available,9.52,21.94,high,low,4,spaceship,,,28/09/2026 22:02
 c9a6601d-e231-4f3f-afcf-c27971ab087b,francesca.dance,available,17.99,,high,low,9,name.com,,,
 017b3684-c701-4022-a2f3-934065f976e8,appraisal.dance,available,10.48,36.98,high,low,9,namecheap,,,19/09/2026 22:07
 38986c05-b490-4388-97d0-34e6b17a06a5,barany.dance,available,16.99,27.49,medium,low,6,namesilo,,,22/09/2026 04:13
 9c6a44ca-362c-4b91-8d7e-43d43f192882,worked.dance,available,17.99,,high,low,6,name.com,,,
 1f8d245a-a65a-467a-9e3b-ca39b355ed69,binful.dance,available,10.48,36.98,medium,low,6,namecheap,,,23/09/2026 17:14
+2256562a-3225-4b31-b38f-0bb974b7aa91,dougherty.dance,available,9.52,21.94,medium,low,9,spaceship,,,28/09/2026 23:48
+e346ad32-5e87-43b6-a22e-158e7eec1529,creeping.dance,available,16.99,27.49,high,low,8,namesilo,,,29/09/2026 00:36
+362b5ae4-e714-40e9-a848-d2cf3e2981fb,salvage.dance,available,9.52,21.94,medium,low,7,spaceship,,,28/09/2026 10:52
+44661a88-5bfa-4dea-903c-169721df6409,targeting.dance,available,16,,medium,low,9,unstoppable,,,29/09/2026 03:22
 705d0f92-9821-4e04-949f-8f608df2d810,ranted.dance,available,16.99,27.49,low,low,6,namesilo,,,20/09/2026 16:55
 e23d5729-191d-4ed5-ab47-65afdebd44d3,prat.dance,available,10.48,36.98,medium,low,4,namecheap,,,09/08/2026 11:18
 f99573d0-7609-4734-b2f3-3f3f289fe76a,washing.dance,available,17.99,,high,low,7,name.com,,,
@@ -871,12 +955,14 @@ f9a709e7-0c58-473e-b31a-41ba32a820ea,uncrowned.dance,available,10.48,36.98,mediu
 824faecf-32f8-400f-a9bf-b4aea68ffa7b,outdoorsy.dance,available,10.48,36.98,high,low,9,namecheap,,,04/09/2026 19:14
 fa9ebf8b-b791-4456-bdb1-e5e3e46ff640,campana.dance,available,10.48,36.98,high,low,7,namecheap,,,23/09/2026 05:51
 f5a4a684-986d-43c1-9115-c6aec5204e0f,argun.dance,available,16.99,27.49,medium,low,5,namesilo,,,20/09/2026 04:51
+d11abd68-d351-4291-977b-7983e34ec25a,builds.dance,available,16,,medium,low,6,unstoppable,,,28/09/2026 17:56
+16345345-4547-4c2f-937e-2d880dac0a0b,peek.dance,available,21.2,21.2,high,low,4,cloudflare,,,28/09/2026 19:21
 bf84c8b6-d2bd-4b25-ab6a-9d127e03f91c,sham.dance,available,10.48,36.98,medium,low,4,namecheap,,,07/08/2026 08:06
 918bb645-25dd-46de-8ddc-08b18edf391d,womanly.dance,available,10.48,36.98,high,low,7,namecheap,,,13/09/2026 13:03
 fcb50ccf-c5ce-4a0f-ac08-a9aecb577059,albee.dance,available,16.99,27.49,medium,low,5,namesilo,,,18/09/2026 02:31
 4ef3148c-3166-42bd-97c7-c60e030e8418,limo.dance,available,17.99,,high,low,4,name.com,,,
 794c60dc-4c02-45e9-9afa-4a35d2dac24c,came.dance,available,17.99,,high,low,4,name.com,,,
-cceb9a3d-854c-42b4-9cd5-7a90c4af624f,maxim.dance,available,17.99,,high,low,5,name.com,,,
+cceb9a3d-854c-42b4-9cd5-7a90c4af624f,maxim.dance,available,16,,high,low,5,unstoppable,,,28/09/2026 23:52
 acc0c255-fa56-492d-b7cd-29a1f307ed5c,germy.dance,available,10.48,36.98,medium,low,5,namecheap,,,18/08/2026 22:53
 27a5fedd-6972-4aba-93b6-346702fd873b,clink.dance,available,10.48,36.98,medium,low,5,namecheap,,,08/09/2026 22:47
 0f100460-ba94-44e4-af69-0b2b7dd5139f,bullish.dance,available,10.48,36.98,high,low,7,namecheap,,,23/09/2026 10:43
@@ -892,6 +978,7 @@ e3ccda6c-9bb9-4593-9a42-34f4a0159b04,story.dance,premium,118.8,118.8,high,medium
 421ff0c4-384f-467b-96c4-31e7ffdcbd69,immaculate.dance,available,16.99,27.49,high,low,10,namesilo,,,27/09/2026 06:42
 afa56f53-ba8c-4c60-95ba-becc235a438b,boringly.dance,available,10.48,36.98,medium,low,8,namecheap,,,14/09/2026 01:08
 8fd8ca7f-fa3d-4803-ab4d-a4dd7b486ac4,transparent.dance,available,17.99,,high,low,11,name.com,,,
+1c181061-e029-4161-b350-bbf3259f4143,oper.dance,available,16,,high,low,4,unstoppable,,,28/09/2026 21:34
 dfc2642c-dad8-47c9-a702-de3369a654e6,cocks.dance,available,16.99,27.49,medium,low,5,namesilo,,,18/09/2026 23:39
 38defce0-817c-4ad9-ae75-59bfee561196,dickey.dance,available,10.48,36.98,medium,low,6,namecheap,,,14/08/2026 06:29
 0bd16a3d-4e77-4118-84f4-05be2763ff12,armless.dance,available,10.48,36.98,medium,low,7,namecheap,,,06/08/2026 19:54
@@ -902,6 +989,7 @@ dfc2642c-dad8-47c9-a702-de3369a654e6,cocks.dance,available,16.99,27.49,medium,lo
 b2d70721-97d0-4c9c-a170-0a9b3b9e1c64,recherche.dance,available,10.48,36.98,high,low,9,namecheap,,,09/09/2026 11:27
 f895ac2b-9f70-4784-b588-5caec64be994,recursive.dance,available,10.48,36.98,high,medium,9,namecheap,,,09/09/2026 12:05
 9099eb81-722a-433e-9e31-f5a46ab3a677,according.dance,available,10.48,36.98,high,low,9,namecheap,,,
+4899e6d3-95d7-4e3d-b2c5-494814669932,collingwood.dance,available,16,,medium,low,11,unstoppable,,,28/09/2026 12:17
 83b7d284-4860-4e51-bc2a-5d8ac92d05d8,acrylic.dance,available,16.99,27.49,high,low,7,namesilo,,,17/09/2026 04:05
 bbf85829-160c-41a6-a381-f507c20e2f4c,agleam.dance,available,10.48,36.98,medium,low,6,namecheap,,,
 55024c99-0ab7-449c-8329-5ca4466fad5a,exhibit.dance,available,16.99,27.49,high,low,7,namesilo,,,27/09/2026 05:10
@@ -910,92 +998,4 @@ bbf85829-160c-41a6-a381-f507c20e2f4c,agleam.dance,available,10.48,36.98,medium,l
 de3cac59-c697-4965-b2b2-8666bec775a8,apophatic.dance,available,10.48,36.98,medium,low,9,namecheap,,,06/08/2026 02:27
 ad67f064-848f-45c2-abf1-a84505a0c4c3,ult.dance,available,10.48,36.98,high,low,3,namecheap,,,11/09/2026 22:48
 bbce12a1-d9e8-4ef9-87ed-a5cee671926d,unreactive.dance,available,10.48,36.98,medium,low,10,namecheap,,,12/09/2026 17:50
-6c7bbffa-01b8-46ee-9311-72c3c3c840b4,allylic.dance,available,10.48,36.98,medium,low,7,namecheap,,,
-1f084f14-9831-4d8f-8f36-d32545f98ef9,colorectal.dance,available,10.48,36.98,medium,low,10,namecheap,,,12/08/2026 17:46
-a13e8c88-0e1f-4b38-a679-d7080773f80f,sweetsop.dance,available,16.99,27.49,medium,low,8,namesilo,,,19/09/2026 10:27
-a075dd3b-555e-47f9-8ac8-ef8f2602c85b,slanted.dance,available,10.48,36.98,medium,low,7,namecheap,,,07/08/2026 04:15
-ff035eec-8efb-44fe-bd6d-413d085495b1,chains.dance,available,9.78,22.14,high,low,6,porkbun,,,27/09/2026 12:26
-71197abc-3390-406b-9226-4041399a690a,wishing.dance,available,17.99,,high,low,7,name.com,,,
-690bb806-ac69-48c8-b6fc-9070dee3bb20,loftily.dance,available,10.48,36.98,medium,low,7,namecheap,,,15/09/2026 12:38
-a246019f-ca8c-4055-8cf9-3135a7bbbf9a,albinism.dance,available,16.99,27.49,medium,low,8,namesilo,,,18/09/2026 02:54
-719c1e69-7ec9-44e9-a339-ff4a54a76ff2,lighted.dance,available,10.48,36.98,high,low,7,namecheap,,,21/08/2026 20:09
-4f9b0c13-7264-4e60-8f5c-af7dafe2e9b0,seek.dance,available,17.99,,high,low,4,name.com,,,
-dce15175-ecd7-4d07-bd8f-d433a3b39592,shabby.dance,available,10.48,36.98,medium,low,6,namecheap,,,25/08/2026 06:58
-462bda8b-2c55-4836-9f70-61f3b01b9c8a,furniture.dance,available,10.48,36.98,high,low,9,namecheap,,,20/09/2026 11:14
-47eba06f-36e0-4ea0-a8ba-811f7615250f,reside.dance,available,10.48,36.98,high,low,6,namecheap,,,24/09/2026 23:25
-123a481d-907a-4ede-82c0-daab5412e780,trusty.dance,available,10.48,36.98,high,low,6,namecheap,,,11/09/2026 20:49
-7443b348-a119-480e-9632-3d20b56ca367,disorder.dance,available,16.99,27.49,high,low,8,namesilo,,,24/09/2026 22:27
-e1f6112a-fbdf-4f17-8dfb-e3c4c7f9f984,panther.dance,available,17.99,,high,low,7,name.com,,,
-c1e348e4-aeb5-46ce-a46c-f9f2f0411aa0,stuffed.dance,available,10.48,36.98,high,low,7,namecheap,,,10/09/2026 23:02
-209cf9c1-4d41-42be-94c2-3343c775bc68,utterly.dance,available,17.99,,high,low,7,name.com,,,
-727d6a6d-cb52-4910-916d-ec5a00caaaad,sundress.dance,available,17.99,,high,low,8,name.com,,,
-55c2d784-c6d2-4ed0-b48c-a7c03d731306,bade.dance,available,16.99,27.49,high,low,4,namesilo,,,21/09/2026 17:00
-b5d3210f-c0c8-4b93-a669-352fcd08d18d,listening.dance,available,16.99,27.49,high,low,9,namesilo,,,25/09/2026 09:00
-eb4f94f8-f810-4a32-bc84-0d82a697aaea,sadly.dance,available,10.48,36.98,medium,low,5,namecheap,,,14/09/2026 11:52
-c2d79f72-9a9e-41b4-a4d7-b74be3aad36e,truncheon.dance,available,16.99,27.49,medium,low,9,namesilo,,,23/09/2026 16:38
-1583caa8-058f-4eb7-bb7f-f7461221648f,surprises.dance,available,16.99,27.49,medium,low,9,namesilo,,,20/09/2026 10:56
-0a658984-aec6-4b52-bb59-c6cb49f45dd3,greyish.dance,available,10.48,36.98,medium,low,7,namecheap,,,20/08/2026 18:54
-be71f20d-bd51-460c-9b1a-5afc82a9dd4a,decreased.dance,available,10.48,36.98,medium,low,9,namecheap,,,13/08/2026 22:08
-a05a7823-0a5d-42aa-a299-c71966d11bb4,midlife.dance,available,16.99,27.49,high,low,8,namesilo,,,27/09/2026 06:42
-13e29f0f-cd71-4d81-955b-49bca66f91b8,reliever.dance,available,16.99,27.49,high,low,8,namesilo,,,18/09/2026 10:02
-1935f82b-8c62-4041-a751-9f9c0e14f784,lidless.dance,available,10.48,36.98,medium,low,7,namecheap,,,23/08/2026 01:17
-9770f754-afe2-452f-b8d1-2248f507f7a4,obviously.dance,available,16.99,27.49,high,low,9,namesilo,,,27/09/2026 03:52
-908d6baa-7ed0-48bb-98ce-ec8800d95ac0,naturally.dance,available,17.99,,high,low,9,name.com,,,
-eed1edde-5934-46aa-bf28-7be14d2e7e65,amanda.dance,available,16.99,27.49,high,low,6,namesilo,,,25/09/2026 13:54
-aef1a10d-1021-4d47-b516-776a9b8e61d7,arrange.dance,available,16.99,27.49,high,low,7,namesilo,,,25/09/2026 22:15
-6172e338-b855-4b41-a5d6-740ff12f88f1,jolty.dance,available,10.48,36.98,medium,low,5,namecheap,,,11/08/2026 09:50
-d41c9b88-d176-4de3-80ce-a6e7386c84af,veridical.dance,available,10.48,36.98,medium,low,9,namecheap,,,13/09/2026 02:24
-3b5d183c-1d55-410d-990a-1da4ca30647e,tetanic.dance,available,10.48,36.98,medium,low,7,namecheap,,,11/09/2026 12:08
-1343e775-5cb9-4a99-a411-c12ecb4cdd8e,bipolar.dance,available,16.99,27.49,high,low,7,namesilo,,,27/09/2026 06:42
-59e32120-1bfa-4ad0-a58b-d4d35f8b14c1,shagged.dance,available,10.48,36.98,medium,low,7,namecheap,,,10/09/2026 05:30
-11520097-4111-406b-9937-2bba7fb3e864,nuprin.dance,available,16.99,27.49,medium,low,6,namesilo,,,17/09/2026 11:20
-40e79c10-b533-4771-b3cf-0f945440b6c7,welcome.dance,premium,35.4,35.4,high,low,7,namesilo,,,13/09/2026 10:12
-700f7f66-04f9-4348-8f30-87a1a7f2705a,transfer.dance,available,16.99,27.49,high,low,8,namesilo,,,19/09/2026 03:42
-d6fc293e-4e5b-4f11-b455-0cec676dd671,beet.dance,available,10.48,36.98,high,low,4,namecheap,,,23/09/2026 01:49
-7e14f2d5-4a56-4339-8b64-7a759bbec028,valmy.dance,available,16.99,27.49,medium,low,5,namesilo,,,22/09/2026 16:13
-0b86cdf2-4c8c-495d-a06f-4e7b51a683ea,bedford.dance,available,10.48,36.98,high,low,7,namecheap,,,25/09/2026 14:52
-f8c16361-b58b-49f0-8ac4-843a98a1b03f,optical.dance,available,10.48,36.98,high,low,7,namecheap,,,04/09/2026 00:42
-540c127e-b550-4b86-a5df-2578f6ea86c2,recognition.dance,available,17.99,,high,low,11,name.com,,,
-36062457-073d-415b-95b3-4d7e01499573,vaguely.dance,available,10.48,36.98,medium,low,7,namecheap,,,16/09/2026 10:34
-37945e62-51fc-4bfb-9b44-f8a4beb29c41,unimodal.dance,available,10.48,36.98,medium,low,8,namecheap,,,12/09/2026 13:07
-61b1e0bd-ac60-4cb3-9012-150c03749238,establish.dance,available,16.99,27.49,high,low,9,namesilo,,,22/09/2026 17:35
-f2bf1bc2-3f2e-4759-a939-35a3d50a9e8e,barefooted.dance,available,10.48,36.98,medium,low,10,namecheap,,,08/08/2026 18:59
-d2162943-6f2b-41f0-962b-9e22be525db0,abbot.dance,available,10.48,36.98,medium,low,5,namecheap,,,16/09/2026 14:31
-a13c8480-6aec-4da6-96a9-631cb1336f45,mesolithic.dance,available,10.48,36.98,medium,low,10,namecheap,,,24/08/2026 21:17
-9725f17a-2cf4-4518-9ac0-9f474f3de7d2,carrier.dance,available,17.99,,high,low,7,name.com,,,
-8d07d715-5d3e-4c96-8df1-fddc10fc3b70,spotless.dance,available,10.48,36.98,high,low,8,namecheap,,,21/08/2026 20:48
-de2fc908-5e91-4e2b-a658-bf24f651b587,nonplussed.dance,available,10.48,36.98,medium,low,10,namecheap,,,07/08/2026 10:48
-b9b83f6b-914d-40a1-9bdb-9cc37a36409a,duck.dance,available,,,high,low,4,,,,
-baa3a10c-56d6-4de2-80a6-1370623a9ab1,deeper.dance,available,10.48,36.98,high,low,6,namecheap,,,17/09/2026 12:06
-437306e0-05d7-4aca-bf1f-eea880f68c37,honduran.dance,available,10.48,36.98,medium,low,8,namecheap,,,21/08/2026 13:17
-dea84f7b-0557-4aaf-9cfc-e51c74f7e188,lugosi.dance,available,16.99,27.49,medium,low,6,namesilo,,,23/09/2026 04:23
-d26dd1eb-87a7-49f0-bb4a-bef2482ee89b,wabash.dance,available,21.2,21.2,medium,low,6,cloudflare,,,28/09/2026 03:15
-5db6a21c-de87-4adf-b58f-c79b9eb3d162,arariba.dance,available,16.99,27.49,medium,low,7,namesilo,,,20/09/2026 00:13
-54b22338-b9c0-4ae0-9e06-0a385452646e,bryant.dance,available,10.48,36.98,high,low,6,namecheap,,,25/09/2026 17:45
-5e9f118a-026b-49ad-928f-0aee17e5815c,wrong.dance,available,16.99,27.49,high,low,5,namesilo,,,25/09/2026 21:50
-59b9a4b2-af77-4ce1-8d44-4ee7e2361afc,medieval.dance,available,16.99,27.49,high,low,8,namesilo,,,27/09/2026 06:42
-990b7375-f662-47de-9c33-56f034224f44,bleach.dance,available,10.48,36.98,high,low,6,namecheap,,,24/09/2026 03:49
-fcf190f1-1c48-446b-ad45-d4aac9063bf2,galactic.dance,available,16.99,27.49,high,low,8,namesilo,,,27/09/2026 06:42
-7149ad0b-7ac0-4747-94af-613781f0562d,adiantum.dance,available,16.99,27.49,medium,low,8,namesilo,,,17/09/2026 08:05
-dd2f4743-c73b-455b-b80e-16c04a3724e9,juridical.dance,available,10.48,36.98,medium,low,9,namecheap,,,22/08/2026 14:40
-78600019-7495-4ed7-a2e0-97f598b3936b,khz.dance,available,16.99,27.49,high,low,3,namesilo,,,25/09/2026 08:09
-a5a0abd9-b057-43bc-af3a-02a81bc1d499,platt.dance,available,16.99,27.49,medium,low,5,namesilo,,,27/09/2026 06:33
-a479495c-9489-4854-8e2e-477b6190b4d7,haunted.dance,available,10.48,36.98,high,low,7,namecheap,,,21/08/2026 01:31
-7f2efb32-1d8f-426b-aba8-3fa78f6f4ec7,polluted.dance,available,10.48,36.98,medium,low,8,namecheap,,,08/09/2026 23:08
-4cc092e8-4c5f-4cf3-9f82-8102951bf3b9,beverage.dance,available,9.78,22.14,high,low,8,porkbun,,,28/09/2026 05:24
-4d8dfe70-1c2c-4cae-8480-9d163b3d8a85,toynbee.dance,available,16.99,27.49,high,low,7,namesilo,,,20/09/2026 08:19
-4e1e17e7-ef3a-438e-a29b-1a45b7191d26,eater.dance,available,16.99,27.49,high,low,5,namesilo,,,19/09/2026 09:42
-a6eb6dc8-b4c4-42e2-a9bb-7f5898af894d,pandora.dance,available,17.99,,high,low,7,name.com,,,
-141e6dd1-2783-4042-bc4e-a9b3385c9180,tricuspid.dance,available,10.48,36.98,medium,low,9,namecheap,,,11/09/2026 19:29
-0f9d7d0a-4ff1-42b1-8189-eedb38a9ac98,emulator.dance,available,16.99,27.49,medium,low,8,namesilo,,,19/09/2026 16:28
-06d21058-91ec-42e7-99f4-0bf630786b30,lascivious.dance,available,10.48,36.98,medium,low,10,namecheap,,,22/08/2026 20:04
-283f064f-7575-4e2e-be52-e950c5809d17,mangonel.dance,available,16.99,27.49,medium,low,8,namesilo,,,20/09/2026 00:37
-d22c28db-03d4-49d0-a60b-d829bee58f38,battue.dance,available,10.48,36.98,medium,low,6,namecheap,,,22/09/2026 16:30
-753ff01f-325a-4e45-bffe-7f997842de0b,hire.dance,available,16.99,27.49,high,low,4,namesilo,,,24/09/2026 13:49
-646ec35f-874e-4424-b069-a2760c04288a,beecher.dance,available,16.99,27.49,medium,low,7,namesilo,,,23/09/2026 00:12
-80a1162b-7ab0-4ab0-b615-8540ee850b0e,traumatic.dance,available,10.48,36.98,high,low,9,namecheap,,,11/09/2026 19:03
-9dc58eb2-2ba2-4a7f-9730-35c89d54315b,cattie.dance,available,10.48,36.98,medium,low,6,namecheap,,,11/08/2026 22:14
-a51aad96-84a4-4e45-ac79-fbc7a7efaa66,amenity.dance,available,10.48,36.98,high,low,7,namecheap,,,17/09/2026 19:17
-44c1e656-1532-44af-82eb-ebba0a11995a,delicate.dance,available,16.99,27.49,high,low,8,namesilo,,,24/09/2026 05:30
-802c8989-6758-4525-ad5c-5f8e7b93eed2,throng.dance,available,10.48,36.98,high,low,6,namecheap,,,24/09/2026 17:08
-d50e0626-1b2e-48a9-aac1-3643aad96105,pimento.dance,available,17.99,35.99,medium,low,7,name.com,,,23/09/2026 05:37
+a2bc5cb1-bf43-4831-b2fd-cc80474f74ae,toilets.dance,available,21.2,21.2,low,low,7,cloudflare,,,28/09/2026 23:58
